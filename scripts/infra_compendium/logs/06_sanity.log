@@ -1,0 +1,14 @@
+488 inhibitor conditions from 39 studies
+                                            n_conditions  n_studies  median_auroc  mean_auroc  study_balanced_median_auroc  frac_cond_auroc_gt_0_5  pooled_frac_target_z_negative  median_target_z
+corev3                                             488.0       39.0         0.948       0.825                        0.961                   0.871                          0.862           -3.186
+corev3_nsub>=1                                     484.0       39.0         0.948       0.827                        0.960                   0.872                          0.863           -3.180
+corev3_zcore_only                                  488.0       39.0         0.846       0.724                        0.860                   0.781                          0.788           -1.281
+psp_z                                              354.0       29.0         0.862       0.743                        0.830                   0.794                          0.776           -2.638
+corev3 (shared conds)                              354.0       29.0         0.939       0.834                        0.982                   0.890                          0.893           -3.371
+corev3_nsub>=1 (shared conds)                      354.0       29.0         0.945       0.836                        0.982                   0.890                          0.893           -3.371
+corev3_zcore_only (shared conds)                   354.0       29.0         0.854       0.740                        0.889                   0.808                          0.823           -1.330
+psp_z (shared conds)                               354.0       29.0         0.862       0.743                        0.830                   0.794                          0.776           -2.638
+corev3 (high-conf targets only)                    362.0       22.0         0.953       0.853                        0.945                   0.903                          0.874           -3.424
+corev3_nsub>=1 (high-conf targets only)            358.0       22.0         0.951       0.855                        0.944                   0.905                          0.875           -3.407
+corev3_zcore_only (high-conf targets only)         362.0       22.0         0.859       0.757                        0.792                   0.826                          0.816           -1.534
+psp_z (high-conf targets only)                     261.0       13.0         0.890       0.774                        0.830                   0.831                          0.813           -3.111

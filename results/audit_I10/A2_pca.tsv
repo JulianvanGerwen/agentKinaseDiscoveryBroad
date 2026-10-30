@@ -1,0 +1,7 @@
+what	value
+PC1 var explained (49 footprint nz scores)	0.27127247078021066
+PC2 var explained	0.09143975354041008
+rho(PC1, MAPK1/3 corev3 tc_padj), pooled within-cohort z	0.700905170213901
+top-12 |PC1| loaders	GF_all:+0.26;EGF:+0.26;KI_EGFR:-0.25;KI_MET_ALK:-0.24;MAPKaxis:-0.24;KI_MEK:-0.24;phosphatase_inh:+0.23;GPCR_ligand:+0.22;PI3Kaxis:-0.19;TNF:+0.19;immune_receptor:+0.17;KI_AURK_PLK:-0.17
+PC1 var after collapsing MAPK-overlapping footprints to KI_MEK only (dropped 7: EGF;GF_all;KI_EGFR;KI_MET_ALK;KI_RAF;KI_p38;MAPKaxis)	0.2156726561759832
+... its top loaders	GPCR_ligand:+0.27;phosphatase_inh:+0.26;KI_MEK:-0.25;PI3Kaxis:-0.24;KI_AURK_PLK:-0.22;immune_receptor:+0.22;TNF:+0.21;KI_PI3K:-0.21

@@ -1,0 +1,5 @@
+{'TK': 90, 'Other': 82, 'CAMK': 74, 'CMGC': 65, 'AGC': 62, 'STE': 47, 'TKL': 43, 'Atypical': 28, 'CK1': 12}
+kinases 503; IDG dark in universe 126 (IDG kinases not in universe: 8: ['PI4KA', 'PIK3C2B', 'PIK3C2G', 'PIP5K1A', 'PIP5K1B', 'PIP5K1C', 'POMK', 'WHR1'])
+PSP substrates >=5: 288, >=5 in compendium: 223
+dark kinases with psp_z score in >=1 condition: 11; with core-v3 n_sub>=1 in >=50% conditions: 126
+sites with predictions: 177094 / 189962

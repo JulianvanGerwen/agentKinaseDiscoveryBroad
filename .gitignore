@@ -1,0 +1,42 @@
+# ---- Third-party / provided data (licence-restricted, large) ----
+/data/
+/cache/
+**/dl/
+**/dl_*/
+**/cache/
+**/kras_zenodo/
+
+# ---- Raw / derived matrices and binary formats ----
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.gz
+*.zip
+*.xlsx
+*.xls
+
+# ---- Patient-level tables (CPTAC / GDC case or sample identifiers) ----
+/results/b_I29/tables/T7_cptac_conf_tumour_table.tsv
+/results/val_B/gdc_ischaemia_all.tsv
+/results/val_E/ischaemia_scores.tsv
+
+# ---- Files over ~5 MB not caught by patterns above ----
+/results/audit_H/h3_site_cohort.tsv
+/results/b_I01/tables/contexts_long.tsv
+/results/b_I01/tables/contexts_long_pc10.tsv
+/results/b_I10/tables/T9_assoc_footprint.tsv
+/results/b_I10/tables/T9_assoc_kinase.tsv
+/results/b_I28/tables/cptac_site_stats.tsv
+/results/infra_compendium/sites.tsv
+
+# ---- Logs / caches / OS junk ----
+# logs/ is small (32 KB) and is kept
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

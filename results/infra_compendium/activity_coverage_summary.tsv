@@ -1,0 +1,7 @@
+	corev3	psp_z
+kinases_any	503.0	189.0
+kinases_ge50pct	503.0	66.0
+kinases_direct_nsub_ge1_any	503.0	189.0
+kinases_nsub_ge5_ge50pct	352.0	66.0
+median_kinases_per_condition	503.0	72.0
+median_kinases_nsub_ge5_per_condition	346.0	72.0

@@ -1,0 +1,56 @@
+   perturbation_class  n_conditions  n_studies
+0            cytokine            97         11
+1  disease_vs_control            75         21
+2             genetic            69         31
+3       growth_factor            48         13
+4    kinase_inhibitor           850         55
+5               other           564         63
+6              stress           142         27
+7         time_course            92          3
+perturbation_subclass
+inhibitor                          817
+antibody_CD20                      216
+vs_earlier_time (antibody_CD20)     90
+small_molecule_other                78
+tumour_or_cell_line_comparison      75
+TNF                                 68
+proteotoxic                         54
+infection_or_coculture              46
+RTK_ligand                          43
+epigenetic_drug                     37
+receptor_agonist                    33
+GPCR_ligand                         32
+cell_cycle                          31
+DNA_damage                          30
+metabolic_drug                      24
+replication_stress                  23
+inhibitor+stimulus                  20
+knockdown                           17
+knockout                            14
+phosphatase_inhibitor               13
+overexpression                      12
+mito_depolarisation                 11
+immune_receptor                     11
+unclassified                         9
+inhibitor_reversed_contrast          9
+other_stimulus                       9
+cold_ischemia                        9
+interleukin                          8
+interferon                           8
+IFNG_LPS                             7
+starvation                           6
+senescence                           6
+serum                                5
+viral_mutant                         5
+PKC_activator                        4
+inhibitor_vs_other_inhibitor         4
+TGFb                                 4
+receptor_antagonist                  4
+toxin                                4
+oxidative                            4
+time series: 714 conditions in 172 series
+dose series: 835 conditions in 86
+time_min parsed: 1664
+target conf: {'': 1087, 'high': 522, 'medium': 167, 'low': 161}
+qc: {'ok': 1798, 'low_coverage': 120, 'scale_suspect': 12, 'duplicate_vector': 7}
+agent-parse disagreements vs kinaseActivityMain condition_doses: 63

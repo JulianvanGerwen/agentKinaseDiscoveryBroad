@@ -1,0 +1,76 @@
+gene	site	test	n_lab	lab_dec	lab_flat	lab_z	n_cond	lolo_dec_over_labs	n_cond_unverified	unverified_lab_z
+CHEK1	O14757_S280	PSP:AKT	2	0	1	Cutillas:-0.61;Kuster:1.01	14.0	-Cutillas:0/1;-Kuster:0/1	7	Cutillas:-0.52;Kuster:0.51
+CHEK1	O14757_S280	MAPK(MEK/ERK/RAF/RSK)	7	4	2	Ahn:-6.21;Cutillas:-0.66;Heck:-1.16;Kuster:-2.70;Roux:-3.19;Thibault:1.68;Trajanoski:-0.02	32.0	-Heck:3/6;-Trajanoski:4/6;-Cutillas:4/6;-Kuster:3/6;-Roux:3/6;-Thibault:4/6;-Ahn:3/6	24	Ahn:-1.72;Cutillas:0.18;Heck:-0.71;Kuster:-0.47;Roux:-3.25;Thibault:2.69;Trajanoski:0.45
+CHEK1	O14757_S280	claimed_alt:ERK	3	3	0	Ahn:-6.42;Cutillas:-1.47;Kuster:-2.70	9.0	-Cutillas:2/2;-Kuster:2/2;-Ahn:2/2	8	Ahn:-0.11;Cutillas:-0.49;Kuster:-0.47
+CHEK1	O14757_S280	RSK	0	0	0				1	Roux:-3.25
+CHEK1	O14757_S280	ALK	2	1	1	Daub:-2.21;Wu:-0.24	2.0	-Daub:0/1;-Wu:1/1	1	Wu:-1.82
+CHEK1	O14757_S280	EGFR	2	1	1	Guha:0.30;Kuster:-2.28	23.0	-Kuster:0/1;-Guha:1/1	46	Cutillas:0.15;Heck:-0.26;Kuster:-0.34
+CHEK1	O14757_S280	MTOR	3	1	1	Cutillas:-0.50;Kuster:0.17;Trajanoski:-5.88	20.0	-Trajanoski:0/2;-Cutillas:1/2;-Kuster:1/2	10	Cutillas:-0.00;Kuster:0.03
+EPHA2	P29317_S897	PSP:AKT	3	0	3	Cutillas:0.83;Kuster:1.13;Olsen:2.43	17.0	-Olsen:0/2;-Cutillas:0/2;-Kuster:0/2	16	Cutillas:0.65;Kuster:-0.16;Olsen:2.07
+EPHA2	P29317_S897	MAPK(MEK/ERK/RAF/RSK)	5	4	1	Ahn:-8.00;Cutillas:0.78;Heck:-4.56;Kuster:-3.79;Olsen:-2.73	43.0	-Heck:3/4;-Olsen:3/4;-Cutillas:4/4;-Kuster:3/4;-Ahn:3/4	20	Ahn:1.26;Cutillas:0.26;Heck:-1.79;Kuster:-0.02;Olsen:1.72
+EPHA2	P29317_S897	claimed_alt:MEK	4	3	1	Ahn:-8.00;Cutillas:0.78;Kuster:-4.02;Olsen:-2.73	31.0	-Olsen:2/3;-Cutillas:3/3;-Kuster:2/3;-Ahn:2/3	7	Kuster:-0.83;Olsen:0.60
+EPHA2	P29317_S897	RSK	0	0	0				0	
+EPHA2	P29317_S897	ALK	1	0	1	Hallberg:-0.28	2.0	-Hallberg:0/0	2	Hallberg:-0.00;Wu:-2.47
+EPHA2	P29317_S897	EGFR	3	3	0	Guha:-8.00;Kuster:-2.80;Olsen:-1.49	24.0	-Olsen:2/2;-Kuster:2/2;-Guha:2/2	20	Cutillas:2.17;Guha:0.88;Heck:1.41;Kuster:-0.75;Olsen:-2.69
+EPHA2	P29317_S897	MTOR	1	0	1	Olsen:2.67	5.0	-Olsen:0/0	4	Cutillas:1.84;Olsen:2.29
+CTTN	Q14247_S405	PSP:PKC/CDK	3	0	3	Burgess:0.32;Cutillas:1.34;Olsen:-0.35	4.0	-Olsen:0/2;-Cutillas:0/2;-Burgess:0/2	16	Cutillas:-0.18;Olsen:-1.71;Sterneckert:-0.90
+CTTN	Q14247_S405	MAPK(MEK/ERK/RAF/RSK)	4	2	1	Ahn:-8.00;Cutillas:0.22;Kuster:-0.55;Trajanoski:-8.00	41.0	-Trajanoski:1/3;-Cutillas:2/3;-Kuster:2/3;-Ahn:1/3	24	Ahn:0.17;Cutillas:-1.00;Kuster:-0.16;Olsen:-5.51;Trajanoski:-8.00
+CTTN	Q14247_S405	claimed_alt:MEK	4	3	1	Ahn:-8.00;Cutillas:-0.42;Kuster:-1.10;Trajanoski:-8.00	32.0	-Trajanoski:2/3;-Cutillas:3/3;-Kuster:2/3;-Ahn:2/3	7	Kuster:-0.12
+CTTN	Q14247_S405	RSK	0	0	0				0	
+CTTN	Q14247_S405	ALK	1	0	1	Olsen:1.00	3.0	-Olsen:0/0	1	Wu:-1.53
+CTTN	Q14247_S405	EGFR	1	1	0	Kuster:-1.60	26.0	-Kuster:0/0	75	Cutillas:1.00;Kuster:0.09;Olsen:0.18
+CTTN	Q14247_S405	MTOR	3	2	1	Cutillas:-0.21;Kuster:-2.21;Trajanoski:-3.84	14.0	-Trajanoski:1/2;-Cutillas:2/2;-Kuster:1/2	4	Cutillas:0.14;Kuster:-1.23;Olsen:-4.38
+MAP2K2	P36507_T394	PSP:CDK	1	0	1	Burgess:0.40	1.0	-Burgess:0/0	9	Cutillas:0.04;Kettenbach:0.22;Mann:0.23;Sterneckert:0.16
+MAP2K2	P36507_T394	MAPK(MEK/ERK/RAF/RSK)	8	4	3	Ahn:-3.48;Cutillas:0.59;Heck:-0.55;Kuster:-0.08;Olsen:0.18;Roux:-1.26;Thibault:-1.89;Trajanoski:-1.99	66.0	-Heck:4/7;-Olsen:4/7;-Trajanoski:3/7;-Cutillas:4/7;-Kuster:4/7;-Roux:3/7;-Thibault:3/7;-Ahn:3/7	45	Ahn:-1.73;Cutillas:0.92;Haura:0.68;Heck:-1.55;Kuster:-0.16;Mann:-0.07;Olsen:0.34;Roux:-1.02;Thibault:-1.67;Trajanoski:0.43
+MAP2K2	P36507_T394	claimed_alt:RAF	3	2	0	Heck:-0.55;Thibault:-1.89;Trajanoski:-1.06	14.0	-Heck:2/2;-Trajanoski:1/2;-Thibault:1/2	24	Ahn:-2.78;Cutillas:0.45;Heck:-1.55;Olsen:0.35;Thibault:-1.67;Trajanoski:0.43
+MAP2K2	P36507_T394	RSK	0	0	0				1	Roux:-1.02
+MAP2K2	P36507_T394	ALK	3	2	1	Daub:-1.60;Olsen:0.55;Wu:-1.82	5.0	-Daub:1/2;-Wu:1/2;-Olsen:2/2	2	Wu:-0.62
+MAP2K2	P36507_T394	EGFR	3	0	2	Guha:-0.05;Kuster:-0.65;Olsen:-0.38	51.0	-Olsen:0/2;-Kuster:0/2;-Guha:0/2	101	Cutillas:-0.10;Daub:0.69;Guha:-0.38;Heck:-0.36;Kuster:0.57;Olsen:-0.08
+MAP2K2	P36507_T394	MTOR	5	1	4	Cutillas:0.63;Kuster:1.08;Marto:-1.36;Olsen:0.58;Trajanoski:-0.07	29.0	-Olsen:1/4;-Trajanoski:1/4;-Cutillas:1/4;-Kuster:1/4;-Marto:0/4	14	Cutillas:-0.49;Kuster:0.41;Marto:-1.31;Olsen:0.29
+DNMT1	P26358_S143	PSP:AKT	2	1	1	Cutillas:-1.02;Kuster:0.42	14.0	-Cutillas:0/1;-Kuster:1/1	11	Cutillas:-0.17;Kuster:-0.54
+DNMT1	P26358_S143	MAPK(MEK/ERK/RAF/RSK)	6	3	3	Ahn:-5.23;Cutillas:0.33;Heck:-0.46;Kuster:-1.30;Roux:-2.93;Thibault:1.22	56.0	-Heck:3/5;-Cutillas:3/5;-Kuster:2/5;-Roux:2/5;-Thibault:3/5;-Ahn:2/5	32	Ahn:-1.50;Cutillas:-0.13;Heck:-0.03;Kuster:-0.07;Mann:-1.70;Roux:-0.28;Thibault:0.58
+DNMT1	P26358_S143	claimed_alt:MEK	4	3	1	Ahn:-5.87;Cutillas:0.93;Kuster:-1.39;Roux:-2.93	35.0	-Cutillas:3/3;-Kuster:2/3;-Roux:2/3;-Ahn:2/3	6	Ahn:-2.32;Kuster:-0.64;Mann:-1.70
+DNMT1	P26358_S143	RSK	0	0	0				2	Roux:-0.28
+DNMT1	P26358_S143	ALK	2	1	1	Daub:-2.14;Olsen:-0.30	4.0	-Daub:0/1;-Olsen:1/1	1	Wu:-0.76
+DNMT1	P26358_S143	EGFR	1	0	0	Kuster:-0.72	24.0	-Kuster:0/0	62	Cutillas:-0.29;Heck:0.26;Kuster:0.65
+DNMT1	P26358_S143	MTOR	2	1	1	Cutillas:-1.28;Kuster:1.69	19.0	-Cutillas:0/1;-Kuster:1/1	10	Cutillas:1.50;Kuster:0.31
+PIK3C2A	O00443_S259	PSP:CDK	1	0	1	Burgess:0.23	1.0	-Burgess:0/0	5	Cutillas:0.69;Kettenbach:-0.05
+PIK3C2A	O00443_S259	MAPK(MEK/ERK/RAF/RSK)	8	6	1	Ahn:-6.10;Cutillas:-1.18;Heck:-0.70;Kuster:-1.33;Olsen:-1.18;Roux:-5.94;Thibault:1.84;Trajanoski:-2.54	73.0	-Heck:6/7;-Olsen:5/7;-Trajanoski:5/7;-Cutillas:5/7;-Kuster:5/7;-Roux:5/7;-Thibault:6/7;-Ahn:5/7	44	Ahn:1.04;Cutillas:0.26;Haura:0.99;Heck:-1.09;Kuster:-0.32;Olsen:1.13;Roux:-0.47;Thibault:0.86;Trajanoski:0.48
+PIK3C2A	O00443_S259	claimed_alt:MEK	6	6	0	Ahn:-6.54;Cutillas:-1.37;Kuster:-1.33;Olsen:-1.18;Roux:-5.94;Trajanoski:-2.90	50.0	-Olsen:5/5;-Trajanoski:5/5;-Cutillas:5/5;-Kuster:5/5;-Roux:5/5;-Ahn:5/5	11	Haura:0.99;Kuster:-0.35;Olsen:1.09
+PIK3C2A	O00443_S259	RSK	0	0	0				2	Roux:-0.47
+PIK3C2A	O00443_S259	ALK	3	2	0	Daub:-3.68;Olsen:-0.88;Wu:-4.33	5.0	-Daub:1/2;-Wu:1/2;-Olsen:2/2	2	Wu:-0.61
+PIK3C2A	O00443_S259	EGFR	3	2	1	Guha:0.73;Kuster:-2.45;Olsen:-1.09	45.0	-Olsen:1/2;-Kuster:1/2;-Guha:2/2	76	Cutillas:-0.67;Guha:-2.58;Heck:-1.27;Kuster:0.98;Olsen:1.53
+PIK3C2A	O00443_S259	MTOR	4	0	4	Cutillas:-0.36;Kuster:0.32;Olsen:1.06;Trajanoski:-0.35	30.0	-Olsen:0/3;-Trajanoski:0/3;-Cutillas:0/3;-Kuster:0/3	14	Cutillas:-1.09;Kuster:0.14;Olsen:1.09
+FOXK2	Q01167_S373	PSP:CDK	1	0	1	Burgess:1.79	1.0	-Burgess:0/0	3	Cutillas:1.64
+FOXK2	Q01167_S373	MAPK(MEK/ERK/RAF/RSK)	3	0	1	Cutillas:-0.35;Roux:-0.76;Thibault:-0.75	10.0	-Cutillas:0/2;-Roux:0/2;-Thibault:0/2	17	Cutillas:-1.09;Haura:-2.54;Roux:2.33;Thibault:0.11
+FOXK2	Q01167_S373	claimed_alt:MTOR	2	2	0	Cutillas:-2.51;Trajanoski:-8.00	8.0	-Trajanoski:1/1;-Cutillas:1/1	2	Cutillas:-1.62
+FOXK2	Q01167_S373	RSK	0	0	0				2	Roux:2.33
+FOXK2	Q01167_S373	ALK	3	2	1	Daub:-4.26;Hallberg:-0.48;Olsen:-1.60	9.0	-Daub:1/2;-Hallberg:2/2;-Olsen:1/2	1	Hallberg:2.31
+FOXK2	Q01167_S373	EGFR	1	1	0	Kuster:-1.04	2.0	-Kuster:0/0	31	Cutillas:-0.96;Kuster:0.63
+EDC3	Q96F86_S161	PSP:AKT	3	1	1	Cutillas:-1.06;Kuster:1.60;Olsen:-0.80	18.0	-Olsen:1/2;-Cutillas:0/2;-Kuster:1/2	12	Cutillas:-0.20;Kuster:1.07;Olsen:0.34
+EDC3	Q96F86_S161	MAPK(MEK/ERK/RAF/RSK)	7	3	3	Cutillas:-1.22;Heck:0.40;Kuster:-1.25;Olsen:-0.38;Roux:-1.10;Thibault:0.56;Trajanoski:-0.80	64.0	-Heck:3/6;-Olsen:3/6;-Trajanoski:3/6;-Cutillas:2/6;-Kuster:2/6;-Roux:2/6;-Thibault:3/6	40	Cutillas:-0.46;Heck:0.89;Kuster:-1.65;Olsen:0.79;Roux:-0.39;Thibault:0.55;Trajanoski:0.59
+EDC3	Q96F86_S161	claimed_alt:ALK	4	3	1	Daub:-3.88;Hallberg:1.11;Olsen:-3.90;Wu:-2.00	7.0	-Daub:2/3;-Wu:2/3;-Hallberg:3/3;-Olsen:2/3	3	Hallberg:-1.69;Wu:-0.02
+EDC3	Q96F86_S161	RSK	0	0	0				2	Roux:-0.39
+EDC3	Q96F86_S161	EGFR	2	0	0	Kuster:-0.87;Olsen:-0.92	50.0	-Olsen:0/1;-Kuster:0/1	98	Cutillas:-0.06;Daub:0.24;Heck:-1.38;Kuster:0.27;Olsen:0.85
+EDC3	Q96F86_S161	MTOR	4	1	2	Cutillas:-3.20;Kuster:-0.23;Olsen:-0.86;Trajanoski:-0.05	27.0	-Olsen:1/3;-Trajanoski:1/3;-Cutillas:0/3;-Kuster:1/3	13	Cutillas:-1.56;Kuster:-0.25;Olsen:0.31
+DBNL	Q9UJU6_S269	PSP:AKT	3	0	3	Cutillas:-0.16;Kuster:2.26;Olsen:3.11	22.0	-Olsen:0/2;-Cutillas:0/2;-Kuster:0/2	18	Cutillas:1.05;Kuster:-0.13;Olsen:1.60
+DBNL	Q9UJU6_S269	MAPK(MEK/ERK/RAF/RSK)	7	4	2	Ahn:-5.65;Cutillas:-0.59;Heck:-0.39;Kuster:-2.62;Olsen:-3.13;Thibault:3.99;Trajanoski:-3.78	63.0	-Heck:4/6;-Olsen:3/6;-Trajanoski:3/6;-Cutillas:4/6;-Kuster:3/6;-Thibault:4/6;-Ahn:3/6	38	Ahn:0.05;Cutillas:1.34;Haura:-1.99;Heck:1.08;Kuster:-1.07;Olsen:1.44;Thibault:3.29;Trajanoski:-1.93
+DBNL	Q9UJU6_S269	claimed_alt:MEK	5	4	0	Ahn:-5.90;Cutillas:-0.72;Kuster:-2.41;Olsen:-3.13;Trajanoski:-4.28	41.0	-Olsen:3/4;-Trajanoski:3/4;-Cutillas:4/4;-Kuster:3/4;-Ahn:3/4	9	Haura:-1.99;Kuster:-0.21;Olsen:1.30
+DBNL	Q9UJU6_S269	RSK	0	0	0				0	
+DBNL	Q9UJU6_S269	ALK	2	2	0	Daub:-1.77;Wu:-2.69	2.0	-Daub:1/1;-Wu:1/1	1	Wu:0.64
+DBNL	Q9UJU6_S269	EGFR	3	0	2	Guha:1.26;Kuster:-0.80;Olsen:-0.14	51.0	-Olsen:1/2;-Kuster:0/2;-Guha:1/2	99	Cutillas:0.70;Guha:0.71;Heck:-0.51;Kuster:0.39;Olsen:-1.04
+DBNL	Q9UJU6_S269	MTOR	4	1	3	Cutillas:-1.23;Kuster:0.93;Olsen:1.69;Trajanoski:-0.17	29.0	-Olsen:1/3;-Trajanoski:1/3;-Cutillas:0/3;-Kuster:1/3	14	Cutillas:0.27;Kuster:-0.55;Olsen:3.45
+TFPT	P0C1Z6_S180	PSP:CDK	1	0	1	Burgess:3.29	1.0	-Burgess:0/0	4	Cutillas:-0.19;Kettenbach:3.28
+TFPT	P0C1Z6_S180	MAPK(MEK/ERK/RAF/RSK)	7	1	5	Ahn:-0.77;Cutillas:0.19;Kuster:0.19;Olsen:-0.02;Roux:-0.46;Thibault:-1.14;Trajanoski:0.24	64.0	-Olsen:1/6;-Trajanoski:1/6;-Cutillas:1/6;-Kuster:1/6;-Roux:1/6;-Thibault:0/6;-Ahn:1/6	39	Ahn:-0.73;Cutillas:-0.25;Haura:0.66;Kuster:-0.09;Mann:-0.01;Roux:-0.25;Thibault:-1.42;Trajanoski:0.33
+TFPT	P0C1Z6_S180	claimed_alt:RAF	2	1	1	Thibault:-1.14;Trajanoski:-0.30	8.0	-Trajanoski:1/1;-Thibault:0/1	17	Ahn:-0.76;Cutillas:-0.09;Thibault:-1.42;Trajanoski:0.33
+TFPT	P0C1Z6_S180	RSK	0	0	0				2	Roux:-0.25
+TFPT	P0C1Z6_S180	ALK	3	1	2	Daub:0.23;Olsen:0.75;Wu:-1.45	5.0	-Daub:1/2;-Wu:0/2;-Olsen:1/2	0	
+TFPT	P0C1Z6_S180	EGFR	2	1	1	Guha:-1.15;Kuster:0.14	48.0	-Kuster:1/1;-Guha:0/1	92	Cutillas:-0.01;Guha:0.22;Kuster:-0.03
+TFPT	P0C1Z6_S180	MTOR	3	0	3	Cutillas:-0.06;Kuster:-0.10;Trajanoski:0.75	25.0	-Trajanoski:0/2;-Cutillas:0/2;-Kuster:0/2	11	Cutillas:0.21;Kuster:-0.26
+AKAP11	Q9UKA4_T1100	PSP:MTOR	4	0	4	Cutillas:0.10;Kuster:0.28;Olsen:0.42;Trajanoski:0.35	28.0	-Olsen:0/3;-Trajanoski:0/3;-Cutillas:0/3;-Kuster:0/3	14	Cutillas:-1.03;Kuster:-0.44;Olsen:0.79
+AKAP11	Q9UKA4_T1100	MAPK(MEK/ERK/RAF/RSK)	7	3	3	Ahn:-2.98;Cutillas:-0.35;Heck:-1.17;Kuster:-0.90;Olsen:-0.24;Thibault:3.37;Trajanoski:-4.42	61.0	-Heck:2/6;-Olsen:3/6;-Trajanoski:2/6;-Cutillas:3/6;-Kuster:3/6;-Thibault:3/6;-Ahn:2/6	38	Ahn:-1.39;Cutillas:0.10;Haura:-1.27;Heck:-0.58;Kuster:-0.73;Mann:0.98;Olsen:0.47;Roux:-0.02;Thibault:-0.55;Trajanoski:-3.48
+AKAP11	Q9UKA4_T1100	claimed_alt:ERK	3	3	0	Ahn:-3.31;Cutillas:-1.25;Kuster:-2.16	9.0	-Cutillas:2/2;-Kuster:2/2;-Ahn:2/2	10	Ahn:-0.30;Cutillas:-0.21;Kuster:-1.08
+AKAP11	Q9UKA4_T1100	RSK	0	0	0				1	Roux:-0.02
+AKAP11	Q9UKA4_T1100	ALK	3	0	1	Hallberg:0.55;Olsen:-0.65;Wu:-1.00	6.0	-Wu:0/2;-Hallberg:0/2;-Olsen:0/2	2	Hallberg:0.46;Wu:-1.16
+AKAP11	Q9UKA4_T1100	EGFR	3	1	1	Guha:-1.46;Kuster:-0.22;Olsen:-0.61	43.0	-Olsen:1/2;-Kuster:1/2;-Guha:0/2	87	Cutillas:0.10;Heck:0.12;Kuster:0.19;Olsen:-0.57
+AKAP11	Q9UKA4_T1100	MTOR	4	0	4	Cutillas:0.10;Kuster:0.28;Olsen:0.42;Trajanoski:0.35	28.0	-Olsen:0/3;-Trajanoski:0/3;-Cutillas:0/3;-Kuster:0/3	14	Cutillas:-1.03;Kuster:-0.44;Olsen:0.79

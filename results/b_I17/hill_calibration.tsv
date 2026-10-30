@@ -1,0 +1,9 @@
+	0
+frac_obs_hill_ge2	0.39687558117909616
+frac_sim_h1_hill_ge2	0.22583844770937947
+frac_obs_hill_le0p7	0.26027524641993677
+frac_sim_h1_hill_le0p7	0.24065464013390367
+median_obs_hill	1.4
+median_sim_hill	1.0
+Fhill_q95_sim	5.656411503879147
+frac_obs_Fhill_gt_simq95	0.16366003347591593

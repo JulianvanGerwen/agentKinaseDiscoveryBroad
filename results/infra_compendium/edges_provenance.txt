@@ -1,0 +1,4 @@
+primary edges.tsv.gz sha256 d079a72bd106e5563a09ac0c5ab040c39dd4e16ee882e14a805e304bf84d5a7a
+curated(curated_union) 27598 edges / 439 kinases; r2np 46866 edges / 503 kinases
+alt MVP rebuild curated 30080; shared with primary 25128
+repo mvp/model/edges.tsv.gz (prebuilt, 2026-10-28) curated 30080; identical to alt rebuild: True

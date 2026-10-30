@@ -1,0 +1,38 @@
+           analysis  variant  k    medF   minF     fs     rf     iv  iv_lo  iv_hi  other  other_lo  other_hi   diff  diff_p
+0    AKTSUB_outcome       tc  7  13.252  5.850  0.348  0.070  0.243  0.035  0.451  0.398     0.225     0.571 -0.244   0.053
+1    AKTSUB_outcome  tc_padj  7  18.499  5.238  0.427  0.111  0.267 -0.078  0.612  0.411     0.270     0.552 -0.166   0.348
+2   instr_RTK_abund       tc  7   2.343  0.305  0.130 -0.084 -0.167 -0.669  0.334  0.417     0.303     0.530 -0.535   0.041
+3  instr_RTK_stoich       tc  7   8.526  5.951  0.335  0.085  0.281  0.046  0.515  0.414     0.284     0.543 -0.168   0.190
+            analysis cohort    n       F     fs     rf     iv  iv_se  other
+1    instr_RTK_abund   BRCA   73   4.614  0.241  0.003  0.011  0.431  0.283
+2   instr_RTK_stoich   BRCA   73   5.951  0.285 -0.072 -0.252  0.494  0.311
+6    instr_RTK_abund  CCRCC   90   0.345 -0.063 -0.115  1.828  1.326  0.575
+7   instr_RTK_stoich  CCRCC   90   7.508  0.272  0.007  0.026  0.394  0.629
+11   instr_RTK_abund   COAD   43   2.343  0.229 -0.058 -0.255  0.777  0.570
+12  instr_RTK_stoich   COAD   43   8.526  0.407  0.260  0.640  0.390  0.498
+16   instr_RTK_abund    GBM   99   1.918  0.141 -0.086 -0.607  0.895  0.232
+17  instr_RTK_stoich    GBM   99  12.501  0.342  0.005  0.014  0.270  0.241
+21   instr_RTK_abund  HNSCC  108   6.070  0.237 -0.082 -0.345  0.491  0.290
+22  instr_RTK_stoich  HNSCC  108   6.970  0.247  0.085  0.344  0.416  0.249
+26   instr_RTK_abund   LSCC   98   2.550  0.161 -0.044 -0.272  0.682  0.543
+27  instr_RTK_stoich   LSCC   98  22.934  0.435  0.095  0.218  0.216  0.596
+31   instr_RTK_abund   LUAD  102   0.305  0.050 -0.163 -3.250  2.650  0.462
+32  instr_RTK_stoich   LUAD  102  24.865  0.403  0.287  0.711  0.265  0.385
+joint_ADAPT~RTKpY+RTKprot: coef RTK pY 0.416 [0.328,0.505] ; coef RTK protein -0.101 [-0.206,0.004] p=0.0587
+   cohort     fs     rf
+4    BRCA  0.308  0.114
+9   CCRCC  0.285 -0.146
+14   COAD  0.437  0.071
+19    GBM  0.463 -0.164
+24  HNSCC  0.352 -0.028
+29   LSCC  0.559 -0.204
+34   LUAD  0.501 -0.250
+joint_ERK~RTKpY+RTKprot: coef RTK pY 0.116 [-0.002,0.234] ; coef RTK protein -0.151 [-0.248,-0.053] p=0.00248
+   cohort     fs     rf
+3    BRCA -0.078  0.035
+8   CCRCC  0.005 -0.116
+13   COAD  0.279 -0.160
+18    GBM  0.005 -0.089
+23  HNSCC  0.128 -0.178
+28   LSCC  0.124 -0.125
+33   LUAD  0.358 -0.377

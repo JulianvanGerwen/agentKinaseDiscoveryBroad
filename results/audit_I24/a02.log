@@ -1,0 +1,120 @@
+                  analysis  variant  k                        cohorts     iv  iv_lo  iv_hi  other  other_lo  other_hi   diff  diff_p
+0               main_F>=10       tc  6  BRCA,COAD,GBM,HNSCC,LSCC,LUAD  0.145 -0.070  0.360  0.408     0.286     0.530 -0.310   0.009
+1               main_F>=10  tc_padj  4            GBM,HNSCC,LSCC,LUAD  0.313  0.117  0.509  0.403     0.231     0.575 -0.111   0.318
+2             no_amp_F>=10       tc  2                      LSCC,LUAD  0.165 -0.253  0.583  0.596     0.435     0.757 -0.411   0.075
+3             no_amp_F>=10  tc_padj  3                HNSCC,LSCC,LUAD  0.362  0.091  0.632  0.441     0.216     0.666 -0.112   0.460
+4          EGFR_only_F>=10       tc  5       COAD,GBM,HNSCC,LSCC,LUAD  0.174 -0.048  0.397  0.423     0.277     0.570 -0.291   0.018
+5          EGFR_only_F>=10  tc_padj  4            GBM,HNSCC,LSCC,LUAD  0.321  0.124  0.518  0.400     0.224     0.575 -0.102   0.363
+6   EGFR_only_no_amp_F>=10       tc  3                HNSCC,LSCC,LUAD  0.182 -0.082  0.446  0.452     0.224     0.680 -0.262   0.106
+7   EGFR_only_no_amp_F>=10  tc_padj  3                HNSCC,LSCC,LUAD  0.375  0.133  0.616  0.426     0.228     0.624 -0.085   0.537
+8           adj_bgPY_F>=10       tc  2                      LSCC,LUAD -0.059 -0.503  0.385  0.334     0.038     0.631 -0.385   0.291
+9           adj_bgPY_F>=10  tc_padj  3                  GBM,LSCC,LUAD  0.183 -0.107  0.474  0.381     0.231     0.531 -0.137   0.389
+10    tc_adj_protein_F>=10       tc  3                  GBM,LSCC,LUAD  0.288 -0.098  0.674  0.437     0.227     0.647 -0.161   0.473
+               analysis  k     fs     rf     iv  iv_lo  iv_hi  other  other_lo  other_hi   diff  diff_p
+0  tc_adj_ADAPT_ERKprot  7  0.352  0.021  0.121 -0.083  0.325  0.443     0.323     0.563 -0.361   0.002
+1      tc_adj_ADAPTprot  7  0.349  0.030  0.145 -0.055  0.345  0.448     0.322     0.574 -0.325   0.004
+2        tc_adj_ERKprot  7  0.351  0.017  0.098 -0.114  0.310  0.440     0.320     0.561 -0.369   0.002
+3        tc_adj_RTKprot  7  0.401  0.107  0.286  0.049  0.523  0.437     0.312     0.563 -0.165   0.197
+pair    ADAPT_prot~ERK_prot  ADAPT~ADAPT_prot  EGFRpY~EGFR_prot  ERK~ERK_prot  RTK_prot~ADAPT_prot  RTK_prot~ERK_prot  RTK~RTK_prot
+cohort                                                                                                                             
+BRCA                   0.35             -0.04               NaN          0.27                -0.02               0.05          0.33
+CCRCC                  0.50             -0.02              0.35          0.11                -0.10              -0.12          0.26
+COAD                   0.05             -0.13              0.29          0.21                 0.08              -0.04          0.38
+GBM                    0.26              0.17              0.80          0.31                -0.03               0.08          0.68
+HNSCC                  0.42              0.14              0.69          0.31                -0.12              -0.04          0.57
+LSCC                   0.13              0.08              0.64          0.20                 0.06              -0.00          0.61
+LUAD                   0.42              0.33              0.65          0.34                -0.16               0.06          0.57
+OV                     0.12             -0.05               NaN          0.30                -0.05               0.10           NaN
+PDAC                   0.52              0.21               NaN          0.31                -0.36              -0.29           NaN
+UCEC                   0.49              0.01               NaN          0.12                -0.22              -0.22           NaN
+stage           ADAPT   ERK   RTK
+variant cohort                   
+tc      BRCA     0.30  0.83   NaN
+        CCRCC    0.85  0.86  0.74
+        COAD     0.22  0.75   NaN
+        GBM      0.67  0.71  0.90
+        HNSCC    0.32  0.54  0.92
+        LSCC     0.76  0.79  0.96
+        LUAD     0.71  0.90  0.94
+        OV       0.23  0.67   NaN
+        PDAC     0.76  0.83   NaN
+        UCEC     0.66  0.63   NaN
+tc_padj BRCA     0.35  0.81   NaN
+        CCRCC    0.82  0.87  0.78
+        COAD     0.26  0.72   NaN
+        GBM      0.77  0.67  0.79
+        HNSCC    0.37  0.50  0.81
+        LSCC     0.82  0.79  0.91
+        LUAD     0.71  0.89  0.78
+        OV       0.24  0.63   NaN
+        PDAC     0.78  0.82   NaN
+        UCEC     0.72  0.62   NaN
+within-adaptor IV tc ADAPT_PG [all10] k=10: IV 0.582 [0.422,0.742]  OLS 0.391
+within-adaptor IV tc ADAPT_PG [7RTKcohorts] k=7: IV 0.694 [0.520,0.867]  OLS 0.340
+within-adaptor IV tc ADAPT_SHC1 [all10] k=10: IV 0.728 [0.597,0.858]  OLS 0.279
+within-adaptor IV tc ADAPT_SHC1 [7RTKcohorts] k=7: IV 0.690 [0.544,0.836]  OLS 0.310
+within-adaptor IV tc_padj ADAPT_PG [all10] k=10: IV 0.566 [0.383,0.750]  OLS 0.386
+within-adaptor IV tc_padj ADAPT_PG [7RTKcohorts] k=7: IV 0.666 [0.464,0.868]  OLS 0.356
+within-adaptor IV tc_padj ADAPT_SHC1 [all10] k=10: IV 0.690 [0.570,0.811]  OLS 0.288
+within-adaptor IV tc_padj ADAPT_SHC1 [7RTKcohorts] k=7: IV 0.688 [0.550,0.826]  OLS 0.321
+SIM tc: null mean-of-cohort diff median 0.521 [2.5%,97.5%] [0.239,1.523]; observed -0.373; P(null<=obs)=0.0100
+SIM tc_padj: null mean-of-cohort diff median 0.461 [2.5%,97.5%] [0.178,1.182]; observed -0.206; P(null<=obs)=0.0067
+                 relR   relA   relE  iv_med  other_med  diff_med  frac_diff_lt_obs  obs_diff
+variant cohort                                                                              
+tc      BRCA    0.700  0.299  0.826   0.839      0.180     0.671             0.000    -0.507
+        CCRCC   0.735  0.855  0.858   0.681      0.572     0.107             0.013    -0.739
+        COAD    0.700  0.219  0.745   1.624      0.167     1.484             0.010    -0.057
+        GBM     0.897  0.667  0.711   0.325      0.200     0.166             0.017    -0.420
+        HNSCC   0.925  0.321  0.540   0.787      0.192     0.612             0.003    -0.285
+        LSCC    0.963  0.760  0.790   0.693      0.483     0.217             0.000    -0.517
+        LUAD    0.938  0.708  0.896   0.640      0.429     0.211             0.147    -0.083
+tc_padj BRCA    0.700  0.352  0.811   0.706      0.219     0.498             0.040    -0.404
+        CCRCC   0.780  0.820  0.874   0.668      0.540     0.135             0.080    -0.327
+        COAD    0.700  0.263  0.718   1.567      0.180     1.393             0.000    -0.121
+        GBM     0.787  0.765  0.669   0.313      0.226     0.085             0.320    -0.022
+        HNSCC   0.808  0.370  0.498   0.691      0.188     0.517             0.000    -0.321
+        LSCC    0.906  0.820  0.791   0.721      0.540     0.191             0.030    -0.270
+        LUAD    0.781  0.712  0.886   0.598      0.347     0.235             0.090     0.024
+var             ADAPT_prot  ERK_prot  Immune  PTPRC_prot   SFK  Stromal  bgPY  purity
+variant cohort                                                                       
+tc      BRCA         -0.04      0.02    0.24        0.05   NaN     0.17  0.40   -0.02
+        CCRCC        -0.10      0.13   -0.03       -0.19  0.42     0.23  0.49    0.06
+        COAD         -0.14      0.10    0.05        0.15   NaN     0.10  0.09   -0.03
+        GBM           0.18     -0.16    0.13        0.11  0.41     0.12  0.11   -0.05
+        HNSCC         0.11      0.20   -0.09       -0.14  0.07    -0.14  0.32    0.07
+        LSCC         -0.01     -0.02    0.07        0.15  0.21    -0.01  0.30    0.01
+        LUAD          0.24      0.23    0.11       -0.02  0.36    -0.25  0.53    0.00
+        OV           -0.00      0.08    0.25        0.22  0.17     0.18  0.36    0.00
+        PDAC          0.16      0.28   -0.06       -0.19  0.60     0.05  0.60    0.08
+        UCEC         -0.04     -0.00    0.13        0.09  0.45     0.11  0.48   -0.02
+tc_padj BRCA         -0.11     -0.01    0.30        0.07   NaN     0.21  0.37   -0.02
+        CCRCC        -0.07      0.11   -0.03       -0.17  0.38     0.22  0.55    0.05
+        COAD         -0.16      0.13    0.02        0.13   NaN     0.09  0.10   -0.04
+        GBM           0.05     -0.15    0.05        0.05  0.36     0.04  0.34   -0.01
+        HNSCC        -0.02      0.10   -0.09       -0.14  0.06    -0.07  0.30    0.05
+        LSCC         -0.13     -0.03    0.06        0.13  0.23    -0.05  0.31    0.02
+        LUAD          0.11      0.12    0.03       -0.01  0.23    -0.24  0.43    0.03
+        OV           -0.04      0.07    0.23        0.20  0.05     0.18  0.28    0.01
+        PDAC          0.10      0.26   -0.06       -0.18  0.59     0.03  0.60    0.08
+        UCEC         -0.19     -0.07    0.14        0.14  0.46     0.04  0.59    0.00
+     variant cohort                         var    rho
+7         tc   BRCA      R2_Immune+Stromal+bgPY  0.203
+16        tc  CCRCC  R2_SFK+Immune+Stromal+bgPY  0.318
+24        tc   COAD      R2_Immune+Stromal+bgPY  0.024
+33        tc    GBM  R2_SFK+Immune+Stromal+bgPY  0.207
+42        tc  HNSCC  R2_SFK+Immune+Stromal+bgPY  0.218
+51        tc   LSCC  R2_SFK+Immune+Stromal+bgPY  0.163
+60        tc   LUAD  R2_SFK+Immune+Stromal+bgPY  0.401
+69        tc     OV      R2_Immune+Stromal+bgPY  0.204
+78        tc   PDAC  R2_SFK+Immune+Stromal+bgPY  0.437
+87        tc   UCEC  R2_SFK+Immune+Stromal+bgPY  0.357
+95   tc_padj   BRCA      R2_Immune+Stromal+bgPY  0.187
+104  tc_padj  CCRCC  R2_SFK+Immune+Stromal+bgPY  0.375
+112  tc_padj   COAD      R2_Immune+Stromal+bgPY  0.043
+121  tc_padj    GBM  R2_SFK+Immune+Stromal+bgPY  0.161
+130  tc_padj  HNSCC  R2_SFK+Immune+Stromal+bgPY  0.143
+139  tc_padj   LSCC  R2_SFK+Immune+Stromal+bgPY  0.147
+148  tc_padj   LUAD  R2_SFK+Immune+Stromal+bgPY  0.250
+157  tc_padj     OV      R2_Immune+Stromal+bgPY  0.143
+166  tc_padj   PDAC  R2_SFK+Immune+Stromal+bgPY  0.422
+175  tc_padj   UCEC  R2_SFK+Immune+Stromal+bgPY  0.393

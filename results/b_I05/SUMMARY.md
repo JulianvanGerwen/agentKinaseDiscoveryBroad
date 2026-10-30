@@ -1,0 +1,9 @@
+# I05 SUMMARY — timing, directness, portability (saved by PI from agent message)
+Setup: 71 time series with defined primary direction (26 inhibitor/8 studies; 45 stimulus/22 studies); Cantley motif percentiles for all 190k sites (cache/motif_pct.parquet; AUROC .86–.93 vs PSP); audit_I19 portability metric, study bootstrap; onset defined in one study, replication in others (99% different cell line).
+1. **Negative: primary responses are not earlier; reverse layer is not later.** Inhibitors: decreases accumulate over time (reverse share slope −0.66 [−1.13,−0.23], 8/8 studies); stimuli flat. Primary sites are more persistent, not earlier.
+2. Early primary responders to stimuli enriched for known PSP substrates of the stimulus kinase (logOR .63 [.27,1.05]; controls flat) but not its motif; inhibitors: no early direct layer (motif sites later).
+3. **Portability tracks persistence, not onset**: early-sustained primary .96 vs transient .62 vs late .56; transient−late .02 ns. Reverse penalty persists at matched onset (sustained .35, transient .21, late .13).
+4. **Motif × direction interaction (stimuli)**: motif-matched primary sites more portable (+.58 [.21,.90]; random kinase sets −.16), reverse not (−.29); interaction .94 [.41,1.42]; PSP version .92. DNA damage +.96, TNF +.54, GF +.42. Inhibitors ns (+.08). Reverse responders enriched for NEK1/3/5/9, IRAK4, STE20/MAP4K (TNIK, MINK1, MAP4K4), MAP3Ks, TTBK, EIF2AK2; GPCR/PPase-inh reverse: MARK/SIK; primary inhibitor: basophilic AGC. Reverse kinase signature is not class-specific and cell-line dependent (same cell r .62 vs cross-cell .22).
+5. Dose (decryptM fits from b_I17): reverse (up) responses ~2× less potent (ΔpEC50 .28 [.06,.54]; 18 drugs, 26 exps).
+Novelty: partly (Kanshin 2015/2017 yeast); human cross-study tests not found. Self C3/N3/P3.
+Files: scripts/b_I05/01–11; results/b_I05/tables/T1–T6, figures/fig1_timing_directness_portability.png.

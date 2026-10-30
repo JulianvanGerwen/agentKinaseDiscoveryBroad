@@ -1,0 +1,30 @@
+		D	D	n_sp	n_sp
+prim		primary	reverse	primary	reverse
+kind	cls				
+inh	AKT	0.35	0.29	8.0	9.0
+inh	CAMK2	-0.15	0.25	2.0	2.0
+inh	CDK	0.22	-0.22	38.0	39.0
+inh	CK2	0.99	-0.04	2.0	1.0
+inh	DDR	0.19	-0.29	9.0	9.0
+inh	EGFR	-0.21	-0.14	47.0	43.0
+inh	ERK	0.24	-0.37	2.0	2.0
+inh	GSK3	-0.28	0.17	4.0	4.0
+inh	JNK	-0.19	-0.22	2.0	2.0
+inh	MEK	0.18	-0.3	49.0	44.0
+inh	MET_ALK	0.12	0.35	28.0	27.0
+inh	PI3K	0.08	-0.02	11.0	9.0
+inh	PI3K_mTOR	0.11	0.2	8.0	8.0
+inh	PKC	0.32	-0.08	6.0	6.0
+inh	RAF	-0.22	-0.03	27.0	27.0
+inh	ROCK	-0.02	0.61	2.0	2.0
+inh	S6K	0.4	0.1	2.0	2.0
+inh	SRC_ABL			0.0	0.0
+inh	mTORcat	0.04	0.3	31.0	24.0
+inh	p38	-0.13	0.19	2.0	2.0
+inh	rapalog	0.86	0.76	4.0	3.0
+stim	DNA_damage	0.96	-0.54	101.0	98.0
+stim	GF_RTK	0.42	-0.03	119.0	82.0
+stim	GPCR	0.09	-0.2	32.0	25.0
+stim	PMA	-1.34	-0.7	2.0	2.0
+stim	TNF	0.54	-0.16	16.0	15.0
+stim	cytokine_other			0.0	0.0

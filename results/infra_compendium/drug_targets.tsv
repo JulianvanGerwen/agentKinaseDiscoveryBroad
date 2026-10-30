@@ -1,0 +1,210 @@
+agent	canonical_name	kind	mechanism	primary_targets	curated_note	target_confidence	primary_targets_in_universe	profiled_targets_in_universe	klaeger_drug	klaeger_designated	klaeger_kd_le100nM	klaeger_kd_le1000nM	hijazi_compound	hijazi_targets
+24D	24D	other	small_molecule_other		2,4-D herbicide	none								
+4NQO	4NQO	stress	DNA_damage		UV-mimetic	none								
+7Oxo	5Z-7-oxozeaenol	kinase_inhibitor	covalent	MAP3K7	covalent TAK1	medium	MAP3K7							
+A485	A485	other	epigenetic_drug		p300/CBP HAT inhibitor	none								
+A486	A486	other	epigenetic_drug		inactive A-485 analogue	none								
+AG1478	Tyrphostin AG1478	kinase_inhibitor	atp	EGFR	primary target (literature)	medium	EGFR							
+AT13148	AT-13148	kinase_inhibitor	atp	AKT1;AKT2;AKT3;ROCK1;ROCK2;PRKACA;RPS6KB1	multi-AGC inhibitor	high	AKT1;AKT2;AKT3;ROCK1;ROCK2;PRKACA;RPS6KB1	AKT1;AKT2;AKT3;LATS1;PKN1;PKN2;PRKACA;PRKACB;PRKCD;ROCK1;ROCK2;RPS6KB1	AT-13148	AKT1,AKT2,AKT3,RPS6KB1,RPS6KB2,PRKACA,PRKACB,PRKACG,ROCK1,ROCK2	PKN2;PRKACB;PRKACA;PKN1;ROCK2;ROCK1;LATS1;PRKCD	PKN2;PRKACB;PRKACA;PKN1;ROCK2;ROCK1;LATS1;PRKCD;ADRBK1	AT13148	ADRBK1;AKT1;AKT2;AKT3;LATS1;PKN1;PKN2;PRKACA;PRKACB;PRKCD;ROCK1;ROCK2;RPS6KB1
+ATMi	ATM inhibitor (unspecified)	kinase_inhibitor	pikk	ATM	compound not named (inferred)	low	ATM							
+ATRi	ATR inhibitor (unspecified)	kinase_inhibitor	pikk	ATR	compound not named (inferred)	low	ATR							
+AZ123	AZ123	other	small_molecule_other		unidentified compound (AML study 23532336)	none								
+AZ20	AZ20	kinase_inhibitor	pikk	ATR	ATR inhibitor	high	ATR	ATR;MTOR					AZ20	ATR;MTOR
+AZD1152	Barasertib (AZD1152)	kinase_inhibitor	atp	AURKB		medium	AURKB	AURKA;FLT3;MAP2K5;RET	Barasertib	AURKB	AURKA;MAP2K5	AURKA;MAP2K5;RET;FLT3		
+AZD1480	AZD1480	kinase_inhibitor	atp	JAK2;JAK1	JAK1/2	high	JAK2;JAK1	ALK;AURKA;AURKC;BLK;CAMK4;CDK18;CSK;DCLK1;DCLK2;DCLK3;FER;FGFR1;FGFR2;FGFR3;FLT1;FLT4;GRK1;GRK7;HCK;JAK1;JAK2;JAK3;LTK;MAP3K2;MAP3K3;MAP4K1;MAP4K3;MERTK;NTRK1;NTRK2;NTRK3;NUAK1;NUAK2;PLK4;PTK2;PTK2B;RET;ROS1;SLK;SRC;STK10;STK16;STK3;STK35;STK38L;STK4;TEC;TNK2;TYK2	AZD-1480	JAK2		PTK2;RET;AURKA;PLK4;RASSF5;SAV1;TNK2;FER;SLK;STK10;FGFR1;STK3;STK4	AZD1480	ALK;AURKA;AURKC;BLK;CAMK4;CDC2L2;CDK18;CSK;DCLK1;DCLK2;DCLK3;FER;FGFR1;FGFR2;FGFR3;FLT1;FLT4;GRK1;GRK7;HCK;JAK1;JAK2;JAK3;LTK;MAP3K2;MAP3K3;MAP4K1;MAP4K3;MERTK;NTRK1;NTRK2;NTRK3;NUAK1;NUAK2;PAK7;PLK4;PTK2;PTK2B;RET;ROS1;SLK;SRC;STK10;STK16;STK3;STK35;STK38L;STK4;SgK110;TEC;TNK2;TYK2
+AZD3759	AZD3759	kinase_inhibitor	atp	EGFR	brain-penetrant EGFR	high	EGFR	EGFR;EPHA6;ERBB2;MAP3K14;MAP3K19;MAST1;SLK					AZD3759	EGFR;EPHA6;ERBB2;MAP3K14;MAP3K19;MAST1;SLK
+AZD4547	AZD4547	kinase_inhibitor	atp	FGFR1;FGFR2;FGFR3		high	FGFR1;FGFR2;FGFR3	DDR1;EIF2AK1;FGFR1;MAP4K1;MAP4K2;MAP4K3;MAP4K5;PDGFRB;RET	AZD-4547	FGFR1,FGFR2,FGFR3	FGFR1;MAP4K5;RET;MAP4K3;DDR1	FGFR1;MAP4K5;RET;MAP4K3;DDR1;MAP4K2;EIF2AK1;PDGFRB;MAP4K1		
+AZD5438	AZD5438	kinase_inhibitor	atp	CDK1;CDK2;CDK9		high	CDK1;CDK2;CDK9	AAK1;BMP2K;BMPR1B;BUB1;CDK1;CDK16;CDK2;CDK3;CDK4;CDK5;CDK7;CDK9;CSNK1D;CSNK1E;CSNK2A2;GSK3A;GSK3B;IRAK3;JAK2;JAK3;LRRK2;MAP2K3;MAP2K4;MAP3K14;MAP3K19;MAP3K7;MAPK10;MAPK15;MAPK8;MAPK9;NEK10;RIOK1;RIOK2;RIOK3;STK16;STK17A;TGFBR2	AZD-5438	CDK1,CDK2,CDK9	CCNT1;GSK3A;GSK3B	CCNT1;GSK3A;GSK3B;AAK1;C2CD5;CDK9;CDK5;FIBP;CDK2;IRAK3;BMP2K	AZD5438	AAK1;BMP2K;BMPR1B;BUB1;CDK1;CDK16;CDK2;CDK3;CDK4;CDK5;CDK7;CDK9;CSNK1D;CSNK1E;CSNK2A2;GSK3A;GSK3B;ICK;IRAK3;JAK2;JAK3;LRRK2;MAP2K3;MAP2K4;MAP3K14;MAP3K19;MAP3K7;MAPK10;MAPK15;MAPK8;MAPK9;NEK10;PIK3C3;PIK3CG;PIP4K2C;PIP5K1A;PIP5K1C;RIOK1;RIOK2;RIOK3;STK16;STK17A;TGFBR2
+AZD6482	AZD6482 (Hijazi label AZD6432)	kinase_inhibitor	lipid_only	PIK3CB	PI3Kbeta; Hijazi column AZD6432 assumed = AZD6482 (Klaeger/Hijazi SI name)	low							AZD6432	PIK3CB
+AZD8055	AZD8055	kinase_inhibitor	pikk	MTOR	ATP-competitive mTORC1/2	high	MTOR	EIF2AK2;GRK4;LATS2;MAPK10;MAPK12;MAPKAPK2;MKNK2;MTOR;NEK2;PDGFRA;SRPK3;TTK	AZD-8055	MTOR			AZD8055	EIF2AK2;GRK4;LATS2;MAPK10;MAPK12;MAPKAPK2;MKNK2;MTOR;NEK2;PDGFRA;PIK3CA;PIK3CD;SRPK3;TTK
+BI2536	BI 2536	kinase_inhibitor	atp	PLK1		medium	PLK1	CAMKK2;PTK2	BI-2536	PLK1		CAMKK2;PDXK;PTK2		
+BI4834	BI 4834	kinase_inhibitor	atp	PLK1	PLK1 inhibitor (literature)	medium	PLK1							
+BID1870	BI-D1870	kinase_inhibitor	atp	RPS6KA1;RPS6KA2;RPS6KA3;RPS6KA6		medium	RPS6KA1;RPS6KA2;RPS6KA3;RPS6KA6							
+BIM1	Bisindolylmaleimide I (GF109203X)	kinase_inhibitor	atp	PRKCA;PRKCB;PRKCG;PRKCD;PRKCE		high	PRKCA;PRKCB;PRKCG;PRKCD;PRKCE	CLK1;CLK2;CLK4;DMPK;DYRK1A;FGFR1;FLT3;GRK7;GSK3A;GSK3B;HIPK2;JAK3;MAP3K2;MAPK12;MAPK15;PAK2;PDGFRA;PIM1;PIM3;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCQ;PRKG2;RPS6KA6;RPS6KB1;SLK;STK10;STK16					GF109203X	CLK1;CLK2;CLK4;DMPK;DYRK1A;FGFR1;FLT3;GRK7;GSK3A;GSK3B;HIPK2;ICK;JAK3;MAP3K2;MAPK12;MAPK15;PAK2;PDGFRA;PIM1;PIM3;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCQ;PRKG2;RPS6KA6;RPS6KB1;SLK;STK10;STK16
+BIRB796	BIRB-796 (doramapimod)	kinase_inhibitor	atp	MAPK14;MAPK11;MAPK12;MAPK13	pan-p38 (literature)	medium	MAPK14;MAPK11;MAPK12;MAPK13							
+BRAFi	BRAF inhibitor (unspecified)	kinase_inhibitor	atp	BRAF	compound not named (inferred)	low	BRAF							
+BX912	BX-912	kinase_inhibitor	atp	PDPK1	PDK1	high	PDPK1	PDPK1					BX912	PDPK1
+CB5083	CB-5083	other	non_kinase		p97 inhibitor	none								
+CDK12IN3	CDK12-IN-3	kinase_inhibitor	atp	CDK12		medium	CDK12							
+CHIR99021	CHIR-99021	kinase_inhibitor	atp	GSK3A;GSK3B	selective	high	GSK3A;GSK3B	GSK3A;GSK3B					CHIR99021	GSK3A;GSK3B
+CUDC101	CUDC-101	kinase_inhibitor	atp	EGFR;ERBB2	dual HDAC/EGFR/HER2 inhibitor	high	EGFR;ERBB2	BUB1;EGFR;GAK	CUDC-101	EGFR,ERBB2		NME2;GAK;EGFR;BUB1		
+CX4945	Silmitasertib (CX-4945)	kinase_inhibitor	atp	CSNK2A1;CSNK2A2		high	CSNK2A1;CSNK2A2	BMPR2;CDK5;CDK7;CLK1;CLK2;CLK3;CLK4;CSNK2A1;CSNK2A2;CSNK2A3;DAPK1;DAPK2;DAPK3;DYRK1A;DYRK1B;DYRK2;EIF2AK4;GRK1;GRK7;HIPK1;HIPK2;HIPK3;HIPK4;MAP2K5;MAP3K15;MAP3K19;MAPK15;MAPKAPK3;MAST1;NEK10;PHKG2;PIM1;PIM3;PLK1;RPS6KA1;SLK;STK10;STK17A;STK17B;STK38;TAOK1;TBK1;TYK2;ULK2	Silmitasertib	CSNK2A1,CSNK2A2	CSNK2B;CSNK2A1;CSNK2A3;EIF3J;CSNK2A2;CLK3;CLK1;MAPKAPK3;DCAF7;DYRK1A;STK10	CSNK2B;CSNK2A1;CSNK2A3;EIF3J;CSNK2A2;CLK3;CLK1;MAPKAPK3;DCAF7;DYRK1A;STK10;CCNI;CCNB1;SLK;PRKAG2;CDK5;PLK1;ICK	CX4945	BMPR2;CDK7;CLK1;CLK2;CLK3;CLK4;CSNK2A1;CSNK2A2;DAPK1;DAPK2;DAPK3;DYRK1A;DYRK1B;DYRK2;EIF2AK4;GRK1;GRK7;HIPK1;HIPK2;HIPK3;HIPK4;ICK;MAP2K5;MAP3K15;MAP3K19;MAPK15;MAST1;NEK10;PHKG2;PI4KB;PIKFYVE;PIM1;PIM3;RPS6KA1;STK17A;STK17B;STK38;TAOK1;TBK1;TYK2;ULK2
+DG2	DG2	kinase_inhibitor	atp	RPS6KB1		medium	RPS6KB1							
+DNAPKi	DNA-PK inhibitor (unspecified)	kinase_inhibitor	pikk	PRKDC	compound not named (inferred)	low	PRKDC							
+ERKi_SCH772984	SCH772984	kinase_inhibitor	atp	MAPK1;MAPK3	SCH in 29255136 inferred = SCH772984 (inferred)	low	MAPK1;MAPK3							
+ERKi_generic	ERK inhibitor / ERK inhibitor II (Calbiochem)	kinase_inhibitor	atp	MAPK1;MAPK3	older ERK inhibitors with poor selectivity (FR180204-like); lower confidence	medium	MAPK1;MAPK3							
+FRAX486	FRAX486	kinase_inhibitor	atp	PAK1;PAK2;PAK3	group I PAK	high	PAK1;PAK2;PAK3	PAK1;PAK2;PAK3					FRAX486	PAK1;PAK2;PAK3
+GSK2334470	GSK2334470	kinase_inhibitor	atp	PDPK1	PDK1	high	PDPK1	CLK4;MAPK12;PDPK1;PRKCH;STK17A;STK17B;STK4					GSK2334470	CLK4;MAPK12;PDPK1;PRKCH;STK17A;STK17B;STK4
+GSK3i_BIO	BIO (6-bromoindirubin-3'-oxime)	kinase_inhibitor	atp	GSK3A;GSK3B	also CDKs at higher conc.	medium	GSK3A;GSK3B							
+GSK690693	GSK690693	kinase_inhibitor	atp	AKT1;AKT2;AKT3	pan-AKT ATP-competitive	high	AKT1;AKT2;AKT3	AKT1;AKT2;AKT3;CIT;GSK3A;GSK3B;LATS1;MARK2;MARK3;PAK4;PKN1;PKN2;PRKACB;PRKCA;PRKCB;PRKCD;PRKCQ;PRKG1;ROCK2;RPS6KA4	GSK-690693	AKT1,AKT2,AKT3	PRKCQ;PRKACB;PKN1;PAK4;PRKCD;LATS1;MOB1B;MOB1A;PRKG1	PRKCQ;PRKACB;PKN1;PAK4;PRKCD;LATS1;MOB1B;MOB1A;PRKG1;MARK3;GSK3A;PRKCB;MARK2;AKT2;GSK3B;AKT1;PRKCA;DCTPP1;CIT;RPS6KA4;PKN2;ROCK2	GSK690693	AKT1;AKT2;AKT3;CIT;GSK3A;GSK3B;LATS1;MARK2;MARK3;PAK4;PKN1;PKN2;PRKACB;PRKCA;PRKCB;PRKCD;PRKCQ;PRKG1;ROCK2;RPS6KA4
+Go6976	Go 6976	kinase_inhibitor	atp	PRKCA;PRKCB	classical PKC; also PKD	high	PRKCA;PRKCB	AAK1;BMP2K;DSTYK;EPHA1;FLT3;HIPK2;HIPK3;JAK2;JAK3;LATS2;MAP2K3;MAP2K4;MAP3K10;MAP3K15;MAP3K19;MAP3K4;MAP4K2;MAPK12;MAPK15;MELK;MINK1;MKNK2;MYO3B;NTRK1;NTRK2;NTRK3;PDPK1;PIM3;PKN2;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCI;PRKCQ;PRKCZ;PRKD3;RIOK1;SRPK1;STK3;STK4;TNIK					Go6976	AAK1;BMP2K;DSTYK;EPHA1;FLT3;HIPK2;HIPK3;JAK2;JAK3;LATS2;MAP2K3;MAP2K4;MAP3K10;MAP3K15;MAP3K19;MAP3K4;MAP4K2;MAPK12;MAPK15;MELK;MINK1;MKNK2;MST4;MYO3B;NTRK1;NTRK2;NTRK3;PDPK1;PIM3;PIP5K1A;PKN2;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCI;PRKCQ;PRKCZ;PRKD3;RIOK1;SRPK1;STK3;STK4;TNIK
+Go6983	Go 6983	kinase_inhibitor	atp	PRKCA;PRKCB;PRKCG;PRKCD;PRKCZ		high	PRKCA;PRKCB;PRKCG;PRKCD;PRKCZ	AKT3;CDK7;CLK1;CLK2;CLK4;DMPK;DYRK1A;GSK3A;GSK3B;HIPK3;MAP2K2;MAP3K3;PIM1;PIM3;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCQ;PRKCZ;PRKD3;RPS6KB1;SLK					Go6983	AKT3;CDK7;CLK1;CLK2;CLK4;DMPK;DYRK1A;GSK3A;GSK3B;HIPK3;MAP2K2;MAP3K3;PIM1;PIM3;PRKCA;PRKCB;PRKCD;PRKCE;PRKCG;PRKCH;PRKCQ;PRKCZ;PRKD3;RPS6KB1;SLK
+H1152	H-1152	kinase_inhibitor	atp	ROCK1;ROCK2		medium	ROCK1;ROCK2							
+H89	H-89	kinase_inhibitor	atp	PRKACA	PKA inhibitor; promiscuous (literature off-target table)	high	PRKACA	PRKACA					H89_2HCl	PRKACA
+HS173	HS-173	kinase_inhibitor	lipid_only	PIK3CA	PI3Kalpha; kinhib also lists PLK1	high		PLK1					HS173	PIK3C2B;PIK3C2G;PIK3C3;PIK3CA;PIK3CB;PIK3CD;PIK3CG;PLK1
+JNJ38877605	JNJ-38877605	kinase_inhibitor	atp	MET	MET	high	MET	MET	JNJ-38877605	MET	MET	MET;PIP4K2C;NQO2	JNJ38877605	MET;PIP4K2C
+JNKIN8	JNK-IN-8	kinase_inhibitor	covalent	MAPK8;MAPK9;MAPK10	covalent	high	MAPK8;MAPK9;MAPK10	CAMK2D;DYRK2;MAPK10;MAPK8;MAPK9					JNKIN8	CAMK2D;DYRK2;MAPK10;MAPK8;MAPK9
+JNKi	JNK inhibitor (unspecified)	kinase_inhibitor	atp	MAPK8;MAPK9;MAPK10	compound not named in metadata (inferred)	low	MAPK8;MAPK9;MAPK10							
+KN62	KN-62	kinase_inhibitor	atp	CAMK2A;CAMK2B;CAMK2D;CAMK2G		high	CAMK2A;CAMK2B;CAMK2D;CAMK2G	CAMK2A;CAMK2B;CAMK2D;CAMK2G					KN62	CAMK2A;CAMK2B;CAMK2D;CAMK2G
+KN93	KN-93	kinase_inhibitor	atp	CAMK2A;CAMK2B;CAMK2D;CAMK2G		high	CAMK2A;CAMK2B;CAMK2D;CAMK2G	CAMK2A;CAMK2B;CAMK2D;CAMK2G					KN93	CAMK2A;CAMK2B;CAMK2D;CAMK2G
+KU0063794	KU-0063794	kinase_inhibitor	pikk	MTOR	ATP-competitive mTORC1/2	high	MTOR	MTOR					Ku0063794	MTOR
+KU60019	KU-60019	kinase_inhibitor	pikk	ATM		medium	ATM							
+LRRK2IN1	LRRK2-IN-1	kinase_inhibitor	atp	LRRK2		medium	LRRK2							
+LY2090314	LY2090314	kinase_inhibitor	atp	GSK3A;GSK3B	GSK3	high	GSK3A;GSK3B	AAK1;BMP2K;CDK14;CDK16;EPHA8;EPHB3;GSK3A;GSK3B;MAPK15;RIOK1;RIOK3;SRPK1;SRPK3					LY2090314	AAK1;BMP2K;CDK14;CDK16;EPHA8;EPHB3;GSK3A;GSK3B;MAPK15;PIP4K2B;PIP5K1A;RIOK1;RIOK3;SRPK1;SRPK3
+LY2584702	LY2584702	kinase_inhibitor	atp	RPS6KB1	S6K1	high	RPS6KB1	CDK19;FGFR1;MAP2K4;MAP3K19;PRKCD;RPS6KB1	LY-2584702	RPS6KB1,RPS6KB2	RPS6KB1	RPS6KB1	LY2584702	CDK19;FGFR1;MAP2K4;MAP3K19;PRKCD;RPS6KB1
+LY294002	LY294002	kinase_inhibitor	pikk	PIK3CA;PIK3CB;PIK3CD;PIK3CG;MTOR	pan-PI3K (lipid kinases; no PSP substrates)	medium	MTOR							
+LY3009120	LY-3009120	kinase_inhibitor	atp	ARAF;BRAF;RAF1	pan-RAF dimer inhibitor (literature)	medium	ARAF;BRAF;RAF1							
+MAPKi_unspecified	MAPKi_unspecified	kinase_inhibitor			unspecified 'MAPKi'	low								
+MEKi	MEK inhibitor (unspecified)	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	compound not named in metadata (inferred)	low	MAP2K1;MAP2K2							
+MK2206	MK-2206	kinase_inhibitor	allosteric	AKT1;AKT2;AKT3	allosteric AKT	high	AKT1;AKT2;AKT3	AKT1;AKT2;AKT3	MK-2206	AKT1,AKT2,AKT3	AKT1;AKT2	AKT1;AKT2;AKT3	MK2206	AKT1;AKT2;AKT3
+MLN8054	MLN8054	kinase_inhibitor	atp	AURKA	AURKB at >=5 uM	high	AURKA	AURKA;AURKB;EPHA2	MLN-8054	AURKA	AURKA;PRKAB2	AURKA;PRKAB2;AURKB;INCENP;EPHA2		
+MRT	MRT67307 (assumed)	kinase_inhibitor	atp	TBK1;IKBKE	MRT in 34663829 assumed MRT67307 (TBK1/IKKe); could be MRT68921 (ULK1) - low confidence (inferred)	low	TBK1;IKBKE							
+NMS873	NMS-873	other	non_kinase		p97 inhibitor	none								
+NM_PP1_1	1-NM-PP1	kinase_inhibitor	chemical_genetic		analog-sensitive kinase ligand; target not given in metadata	low								
+NU7026	DNA-PK inhibitor IV	kinase_inhibitor	pikk	PRKDC	Hijazi DNA_PK_IV	high	PRKDC	PRKDC					DNA_PK_IV	PRKDC
+NU7441	NU7441	kinase_inhibitor	pikk	PRKDC	DNA-PK inhibitor	high	PRKDC	PRKDC					NU7441	PRKDC
+PD0325901	PD-0325901	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	allosteric MEK	high	MAP2K1;MAP2K2	MAP2K1;MAP2K2;MAP2K5	PD-325901	MAP2K1,MAP2K2	MAP2K2;MAP2K1	MAP2K2;MAP2K1;MAP2K5		
+PD153035	PD-153035	kinase_inhibitor	atp	EGFR	primary target	high	EGFR	EGFR					PD153035	EGFR
+PD168393	PD-168393	kinase_inhibitor	covalent	EGFR	covalent EGFR (literature)	medium	EGFR							
+PD184352	PD184352 (CI-1040)	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	MEK (literature)	medium	MAP2K1;MAP2K2							
+PF04217903	PF-04217903	kinase_inhibitor	atp	MET		high	MET	MET	PF-04217903	MET	MET	MET		
+PF3758309	PF-3758309	kinase_inhibitor	atp	PAK4	PAK4; very promiscuous	high	PAK4	ABL2;AKT3;AURKA;AXL;BLK;CAMK1D;CAMK2A;CAMK2D;CAMK2G;CAMK4;CDK17;CDK18;CDK7;CHEK1;CHEK2;CLK1;CLK2;CLK3;CLK4;DAPK1;DAPK2;DAPK3;DCLK1;DCLK2;DCLK3;FER;FGFR1;FGR;FYN;GRK1;GRK7;GSK3B;HCK;IKBKE;LATS1;LATS2;MAP2K3;MAP3K3;MAP4K1;MAPK12;MAPK15;MARK1;MARK2;MARK3;MARK4;MELK;MERTK;MYLK3;NTRK1;NTRK2;NTRK3;NUAK1;NUAK2;PAK1;PAK4;PAK6;PHKG1;PHKG2;PKN1;PLK4;PRKAA1;PRKAA2;PRKACA;PRKACB;PRKACG;PRKCA;PRKCD;PRKCE;PRKCQ;PRKD1;PRKD2;PRKD3;PRKG1;PRKX;RET;RPS6KA1;RPS6KA2;RPS6KA3;RPS6KA4;RPS6KA6;RPS6KB1;SBK1;SIK1;SRC;STK11;STK16;STK25;STK3;STK33;STK38;STK38L;TBK1;TLK2;ULK1;ULK2;ULK3	PF-3758309	PAK4	PRKAB2;ERCC2;PAK6;MNAT1;CDK7;RPS6KA6;PRKAG2;CCNH;PRKAG1;PRKAA1;PRKAB1;CLK4;CDK17;MARK4;CAB39;PHKG2;MELK;PRKACG;CDK18;PAK4;PRKCQ;CLK1	PRKAB2;ERCC2;PAK6;MNAT1;CDK7;RPS6KA6;PRKAG2;CCNH;PRKAG1;PRKAA1;PRKAB1;CLK4;CDK17;MARK4;CAB39;PHKG2;MELK;PRKACG;CDK18;PAK4;PRKCQ;CLK1;RPS6KA3;MARK3;RPS6KA4;MARK2;LATS1;FGFR1;CHEK1;PRKD2;PRKD3;CAMK2G;PRKX;PRKY;TANK;AZI2;CAMK2D;MYLK3;PRKACB;RPS6KB1;TBK1;CAMK4;STK11;TBKBP1;ULK3;IKBKE;GSK3B;PLK4;RET;FER;PRKG1;RPS6KA1;PRKCA;PRKACA;ABL2;PRKCD;AURKA	PF3758309	ABL2;AKT3;AURKA;AXL;BLK;CAMK1D;CAMK2A;CAMK2D;CAMK2G;CAMK4;CDK17;CDK18;CDK7;CHEK1;CHEK2;CLK1;CLK2;CLK3;CLK4;DAPK1;DAPK2;DAPK3;DCLK1;DCLK2;DCLK3;FER;FGFR1;FGR;FYN;GRK1;GRK7;GSK3B;HCK;IKBKE;LATS1;LATS2;MAP2K3;MAP3K3;MAP4K1;MAPK12;MAPK15;MARK1;MARK2;MARK3;MARK4;MELK;MERTK;MYLK3;NTRK1;NTRK2;NTRK3;NUAK1;NUAK2;PAK1;PAK4;PAK6;PAK7;PHKG1;PHKG2;PKN1;PLK4;PRKAA1;PRKAA2;PRKACA;PRKACB;PRKACG;PRKCA;PRKCD;PRKCE;PRKCQ;PRKD1;PRKD2;PRKD3;PRKG1;PRKX;PRKY;RET;RPS6KA1;RPS6KA2;RPS6KA3;RPS6KA4;RPS6KA6;RPS6KB1;SBK1;SIK1;SRC;STK11;STK16;STK25;STK3;STK33;STK38;STK38L;TBK1;TLK2;ULK1;ULK2;ULK3
+PF4708671	PF-4708671	kinase_inhibitor	atp	RPS6KB1		high	RPS6KB1	RPS6KB1					PF4708671	RPS6KB1
+PH797804	PH-797804	kinase_inhibitor	atp	MAPK14;MAPK11	p38	high	MAPK14;MAPK11	MAPK11;MAPK14	PH-797804	MAPK14	MAPK14	MAPK14;MAPK11	PH797804	MAPK11;MAPK14
+PI103	PI-103	kinase_inhibitor	pikk	PIK3CA;PIK3CB;PIK3CD;PIK3CG;MTOR		medium	MTOR							
+PI3Ka_inh2	PI3-kinase alpha inhibitor 2	kinase_inhibitor	lipid_only	PIK3CA		medium								
+PI3Ki	PI3K inhibitor (unspecified)	kinase_inhibitor	lipid_only	PIK3CA;PIK3CB;PIK3CD;PIK3CG	compound not named (inferred)	low								
+PIK294	PIK-294	kinase_inhibitor	lipid_only	PIK3CD	PI3Kdelta	high							PIK294	PIK3CD
+PLK1as_3MBPP1	3-MB-PP1 on analog-sensitive PLK1	kinase_inhibitor	chemical_genetic	PLK1	only in Plk1(as) cells	low	PLK1							
+PRL3i_unspecified	PRL3i_unspecified	other	phosphatase_inhibitor		PRL-3 phosphatase inhibitor	none								
+RG7356	RG7356	other	antibody_other		anti-CD44 antibody	none								
+RO3306	RO-3306	kinase_inhibitor	atp	CDK1		medium	CDK1							
+SB202190	SB-202190	kinase_inhibitor	atp	MAPK14;MAPK11		medium	MAPK14;MAPK11							
+SB203580	SB-203580	kinase_inhibitor	atp	MAPK14;MAPK11		medium	MAPK14;MAPK11							
+SB216763	SB-216763	kinase_inhibitor	atp	GSK3A;GSK3B		medium	GSK3A;GSK3B							
+SB239063	SB-239063	kinase_inhibitor	atp	MAPK14;MAPK11		medium	MAPK14;MAPK11							
+SB590885	SB-590885	kinase_inhibitor	atp	BRAF	BRAF-selective (literature); paradox in BRAF-WT	medium	BRAF							
+SC514	SC-514	kinase_inhibitor	atp	IKBKB		medium	IKBKB							
+SHP099	SHP099	kinase_inhibitor	indirect	MAPK1;MAPK3	SHP2 phosphatase inhibitor; ERK decrease is downstream/indirect	low	MAPK1;MAPK3							
+SM_unspecified	SM_unspecified	other	small_molecule_other		'SM' (Smac mimetic?) in 28539327 - unresolved	none								
+SP600125	SP600125	kinase_inhibitor	atp	MAPK8;MAPK9;MAPK10	promiscuous	high	MAPK8;MAPK9;MAPK10	MAPK10;MAPK8;MAPK9					SP600125	MAPK10;MAPK8;MAPK9
+SYKi	SYK inhibitor (unspecified)	kinase_inhibitor	atp	SYK	compound not named (inferred)	low	SYK							
+TAE684	NVP-TAE684	kinase_inhibitor	atp	ALK		medium	ALK							
+TAK715	TAK-715	kinase_inhibitor	atp	MAPK14;MAPK11	p38alpha inhibitor; also CK1d/e (Hijazi list)	high	MAPK14;MAPK11	CSNK1D;CSNK1E;MAPK11;MAPK14					TAK715	CSNK1D;CSNK1E;MAPK11;MAPK14
+TAKi	TAK1 inhibitor (unspecified)	kinase_inhibitor	atp	MAP3K7	compound not named (inferred)	low	MAP3K7							
+TBCA	TBCA	kinase_inhibitor	atp	CSNK2A1;CSNK2A2	CK2 inhibitor	high	CSNK2A1;CSNK2A2	CSNK2A1;CSNK2A2					TBCA	CSNK2A1;CSNK2A2
+TBKi	TBK1 inhibitor (unspecified)	kinase_inhibitor	atp	TBK1;IKBKE	compound not named (inferred)	low	TBK1;IKBKE							
+TGX221	TGX-221	kinase_inhibitor	lipid_only	PIK3CB	PI3Kbeta	high							TGX221	PIK3CB
+THZ1	THZ1	kinase_inhibitor	covalent	CDK7;CDK12;CDK13	THZ in 34663829 inferred = THZ1 (inferred)	low	CDK7;CDK12;CDK13							
+THZ531	THZ531	kinase_inhibitor	covalent	CDK12;CDK13	covalent	medium	CDK12;CDK13							
+TPCA1	TPCA-1	kinase_inhibitor	atp	IKBKB	TPCA inferred = TPCA-1 (inferred)	low	IKBKB							
+TRC794	TRC794	other	small_molecule_other		unidentified compound TRC-794	none								
+U0126	U0126	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	MEK (literature)	medium	MAP2K1;MAP2K2							
+U73122	U73122	other	non_kinase		PLC inhibitor (specificity control; PKC/PKD axis masked)	none							U73122	
+VE821	VE-821	kinase_inhibitor	pikk	ATR		medium	ATR							
+VX680	Tozasertib (VX-680)	kinase_inhibitor	atp	AURKA;AURKB;AURKC		high	AURKA;AURKB;AURKC	AAK1;ABL1;ABL2;AURKA;AURKB;BMP2K;FLT3;MET;MYLK3;PLK4;RET	Tozasertib	AURKA	AURKA;MYLK3	AURKA;MYLK3;AURKB;INPPL1;ABL2;AAK1;BMP2K;RET;FLT3;ABL1;Q6ZSR9;BCR;PLK4;MET		
+Y27632	Y-27632	kinase_inhibitor	atp	ROCK1;ROCK2		medium	ROCK1;ROCK2							
+ZM447439	ZM447439	kinase_inhibitor	atp	AURKA;AURKB		medium	AURKA;AURKB							
+a_bungarotoxin	a_bungarotoxin	other	receptor_antagonist		nAChR antagonist	none								
+abemaciclib	Abemaciclib (LY2835219)	kinase_inhibitor	atp	CDK4;CDK6	CDK4/6; promiscuous	high	CDK4;CDK6	AAK1;ADCK1;CAMK1;CAMK2A;CAMK2B;CAMK2D;CAMK2G;CAMKK1;CAMKK2;CDK16;CDK17;CDK4;CDK6;CDK7;CDK9;CDKL2;CDKL3;CDKL5;CIT;CLK1;CLK2;CLK4;CSNK2A1;CSNK2A2;CSNK2A3;DAPK2;DAPK3;DCLK3;DMPK;DYRK1A;DYRK1B;DYRK2;EIF2AK4;ERN1;GSK3A;GSK3B;HIPK1;HIPK2;HIPK3;IRAK1;JAK3;MAP2K3;MAP2K4;MAP3K15;MAP3K19;MAP3K7;MAPK10;MAPK12;MAPK15;MAPK8;MAPK9;MAST1;MATK;MET;MINK1;NEK10;PAK2;PHKG2;PIM1;PIM2;PIM3;PKN2;PRKCA;PRKCD;PRKCE;ROCK1;ROCK2;SGK1;SGK2;SGK3;STK16;STK17A;TAOK1;TAOK2;TAOK3;TTK	Abemaciclib	CDK4,CDK6	CSNK2A3;CSNK2A1;CLK1;PIM1;GSK3B;GSK3A;CAMK2G;CSNK2A2;CAMK2D;DCAF7;ADCK1;CSNK2B;CDK16;ICK;CDK6;EIF3J;Q6ZSR9;CDK4	CSNK2A3;CSNK2A1;CLK1;PIM1;GSK3B;GSK3A;CAMK2G;CSNK2A2;CAMK2D;DCAF7;ADCK1;CSNK2B;CDK16;ICK;CDK6;EIF3J;Q6ZSR9;CDK4;AAK1;TAOK1;IRAK1;CCNT2;CDK9;DYRK1A;CCNT1;STK16;PRKCA;CCNA2;PRKCD;CIT	LY2835219	AAK1;ADCK1;CAMK1;CAMK2A;CAMK2B;CAMK2D;CAMK2G;CAMKK1;CAMKK2;CDK16;CDK17;CDK4;CDK6;CDK7;CDK9;CDKL2;CDKL3;CDKL5;CIT;CLK1;CLK2;CLK4;CSNK2A1;CSNK2A2;CSNK2A3;DAPK2;DAPK3;DCLK3;DMPK;DYRK1A;DYRK1B;DYRK2;EIF2AK4;ERN1;GSG2;GSK3A;GSK3B;HIPK1;HIPK2;HIPK3;ICK;IRAK1;JAK3;KIAA0999;MAP2K3;MAP2K4;MAP3K15;MAP3K19;MAP3K7;MAPK10;MAPK12;MAPK15;MAPK8;MAPK9;MAST1;MATK;MET;MINK1;NEK10;PAK2;PHKG2;PIK3C3;PIKFYVE;PIM1;PIM2;PIM3;PIP4K2C;PKN2;PRKCA;PRKCD;PRKCE;Q6ZSR9;ROCK1;ROCK2;SGK1;SGK2;SGK3;STK16;STK17A;TAOK1;TAOK2;TAOK3;TTK
+afatinib	Afatinib	kinase_inhibitor	covalent	EGFR;ERBB2;ERBB4	covalent pan-ERBB	high	EGFR;ERBB2;ERBB4	EGFR;MAPKAPK2	Afatinib	EGFR	EGFR	EGFR;MAPKAPK2		
+aktVIII	Akt inhibitor VIII	kinase_inhibitor	allosteric	AKT1;AKT2;AKT3	allosteric (literature)	medium	AKT1;AKT2;AKT3							
+akti_akt12	Akt-1-2 (Akti-1/2)	kinase_inhibitor	allosteric	AKT1;AKT2	allosteric (literature)	medium	AKT1;AKT2							
+amuvatinib	Amuvatinib (MP-470)	kinase_inhibitor	atp	KIT;PDGFRA;FLT3		high	KIT;PDGFRA;FLT3	CSNK1G3;FLT3;KIT;LATS2;MAPK15;PDGFRA;TRPM6					MP470	CSNK1G3;FLT3;KIT;LATS2;MAPK15;PDGFRA;TRPM6
+belumosudil	Belumosudil (KD025)	kinase_inhibitor	atp	ROCK2	ROCK2-selective	high	ROCK2	ROCK2					KD025	ROCK2
+bleomycin	bleomycin	stress	DNA_damage		DSB inducer	none								
+bortezomib	bortezomib	stress	proteotoxic		proteasome inhibitor	none								
+bosutinib	Bosutinib	kinase_inhibitor	atp	SRC;ABL1	SRC/ABL	high	SRC;ABL1	ABL1;ABL2;BMP2K;BTK;CSK;EPHA2;EPHA4;EPHB2;EPHB4;FER;FRK;FYN;GAK;HCK;IKBKE;LCK;LYN;MAP3K1;MAP3K2;MAP4K1;MAP4K2;MAP4K3;MAP4K5;PKMYT1;SIK2;SLK;SRC;STK10;TNK2;YES1	Bosutinib	SRC,ABL1	BCR;MAP4K5;ABL1;ABL2;BTK;FRK;LCK;GAK;MAP4K3;EPHA4;LYN;MAP4K2;FANCI;EPHB4	BCR;MAP4K5;ABL1;ABL2;BTK;FRK;LCK;GAK;MAP4K3;EPHA4;LYN;MAP4K2;FANCI;EPHB4;MAP3K1;PAG1;EPHA2;HCK;TNK2;SRC;YES1;FYN;CSK;SIK2;EPHB2;MAP3K2;FER;MAP4K1;IKBKE;BMP2K;SLK;PKMYT1;STK10	Bosutinib	ABL1;ABL2;BMP2K;BTK;CSK;EPHA2;EPHA4;EPHB2;EPHB4;FER;FRK;FYN;GAK;HCK;IKBKE;LCK;LYN;MAP3K1;MAP3K2;MAP4K1;MAP4K2;MAP4K3;MAP4K5;PKMYT1;SIK2;SLK;SRC;STK10;TNK2;YES1
+caffeine	caffeine	other	small_molecule_other		natural compound (PDE/ATM-ATR weak inh. at mM)	none								
+cantharidic_acid	cantharidic_acid	other	phosphatase_inhibitor		PP2A inhibitor	none								
+capivasertib	Capivasertib (AZD5363)	kinase_inhibitor	atp	AKT1;AKT2;AKT3	ATP-competitive AKT	high	AKT1;AKT2;AKT3	AKT1;AKT2;AKT3;CLK2;CLK4;JAK2;JAK3;LATS2;LIMK1;LIMK2;MAP2K2;MAP2K3;MAP3K10;MAP3K19;MAPK12;PRKACA;PRKACB;PRKG1;PRKG2;PRKX;ROCK1;ROCK2;RPS6KB1	AZD-5363	AKT1,AKT2,AKT3		PRKACB;PRKG1;ROCK2;LIMK1;PRKACA;LIMK2;CLK4;ROCK1;PRKY;PRKX;PRKAB2	AZD5363	AKT1;AKT2;AKT3;CLK2;CLK4;JAK2;JAK3;LATS2;LIMK1;LIMK2;MAP2K2;MAP2K3;MAP3K10;MAP3K19;MAPK12;PIK3C2G;PIK3CD;PRKACA;PRKACB;PRKG1;PRKG2;PRKX;PRKY;ROCK1;ROCK2;RPS6KB1
+carboplatin	carboplatin	stress	DNA_damage		platinum	none								
+carfilzomib	carfilzomib	stress	proteotoxic		proteasome inhibitor	none								
+ceralasertib	Ceralasertib (AZD6738)	kinase_inhibitor	pikk	ATR	ATR inhibitor	high	ATR	ATR					AZD6738	ATR
+ceritinib	Ceritinib	kinase_inhibitor	atp	ALK		medium	ALK	CAMK4;FER;PTK2;TNK1;TNK2	Ceritinib	ALK	TNK1	TNK1;FER;PTK2;CAMK4;TNK2		
+cisplatin	cisplatin	stress	DNA_damage		platinum	none								
+cobimetinib	Cobimetinib	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	allosteric MEK	high	MAP2K1;MAP2K2	MAP2K1;MAP2K2	Cobimetinib	MAP2K1	MAP2K2	MAP2K2;MAP2K1		
+cortistatinA	Cortistatin A	kinase_inhibitor	atp	CDK8;CDK19	not annotated in GT (no rule)	medium	CDK8;CDK19							
+coumarin	coumarin	other	small_molecule_other		natural compound	none								
+crizotinib	Crizotinib	kinase_inhibitor	atp	ALK;MET;ROS1		high	ALK;MET;ROS1	ABL1;ABL2;AURKA;EPHB6;IRAK3;MAP4K2;MET;MST1R;PRKD3;PTK2	Crizotinib	MET,ALK	MET;MST1R	MET;MST1R;MAP4K2;ABL2;AURKA;EPHB6;PTK2;IRAK3;ABL1;PRKD3		
+curcumin	curcumin	other	small_molecule_other		natural compound	none								
+cytarabine	cytarabine	stress	replication_stress		antimetabolite	none								
+dabrafenib	Dabrafenib	kinase_inhibitor	atp	BRAF;ARAF;RAF1	type I 1/2 BRAF inhibitor; paradoxical activation in BRAF-WT cells	high	BRAF;ARAF;RAF1	ABL2;ACVR1B;ARAF;BRAF;CDK1;CDK16;CDK17;CDK2;CDK4;CDK6;CSK;EIF2AK1;EPHB6;FRK;FYN;LCK;LIMK1;LIMK2;NEK1;NEK9;PLK4;PRKD2;PRKD3;RAF1;RIPK2;RIPK3;SIK2;TNK1;ULK1	Dabrafenib	BRAF	CDK16;CDK2;BRAF;LIMK1;PRKD2;CDK17;ARAF;DYNLL1;NEK9;TNK1;LIMK2	CDK16;CDK2;BRAF;LIMK1;PRKD2;CDK17;ARAF;DYNLL1;NEK9;TNK1;LIMK2;RIPK2;DYNLL2;PRKD3;CDK4;ZAK;ULK1;RIPK3;ABL2;CDK6;CDK1;EPHB6;NEK1;PLK4;ACVR1B;SIK2;UBASH3B;FRK;LCK;FYN;CSK;CCNB2;EIF2AK1	Dabrafenib	ABL2;ACVR1B;ARAF;BRAF;CDK1;CDK16;CDK17;CDK2;CDK4;CDK6;CSK;EIF2AK1;EPHB6;FRK;FYN;LCK;LIMK1;LIMK2;NEK1;NEK9;PLK4;PRKD2;PRKD3;RAF1;RIPK2;RIPK3;SIK2;TNK1;ULK1;ZAK
+dactolisib	Dactolisib (BEZ235)	kinase_inhibitor	pikk	PIK3CA;PIK3CB;PIK3CD;PIK3CG;MTOR	dual PI3K/mTOR	medium	MTOR							
+danuglipron	danuglipron	other	receptor_agonist		GLP-1R agonist (small molecule)	none								
+dasatinib	Dasatinib	kinase_inhibitor	atp	ABL1;SRC;LYN;LCK;YES1;FYN;KIT;EPHA2	BCR-ABL dependent in K562	high	ABL1;SRC;LYN;LCK;YES1;FYN;KIT;EPHA2	ABL1;ABL2;BTK;CSK;DDR1;DDR2;EPHA1;EPHA2;EPHA4;EPHA5;EPHB2;EPHB3;EPHB4;EPHB6;FGR;FRK;FYN;GAK;HCK;KIT;LCK;LIMK2;LYN;MAP4K5;MAPK14;MAPKAPK2;MYLK;NLK;PDGFRB;PKN1;PRKCQ;PTK6;RET;RIPK2;SIK2;SIK3;SRC;TEC;TESK1;TNK1;TNK2;YES1	Dasatinib	ABL1,SRC	SRC;PAG1;ABL2;EPHA5;EPHB4;YES1;FYN;EPHB2;FRK;ABL1;BCR;FGR;BTK;EPHA2;EPHA4;LCK;LYN;EPHA1;RIPK2;CSK;SIK2;TNK2;EPHB3;HCK;EPHB6;TEC;DDR1;PTK6;KIT;TESK1;DDR2;MYLK	SRC;PAG1;ABL2;EPHA5;EPHB4;YES1;FYN;EPHB2;FRK;ABL1;BCR;FGR;BTK;EPHA2;EPHA4;LCK;LYN;EPHA1;RIPK2;CSK;SIK2;TNK2;EPHB3;HCK;EPHB6;TEC;DDR1;PTK6;KIT;TESK1;DDR2;MYLK;SIK3;GAK;ZAK;NLK;PDGFRB;PKN1;MAPKAPK2;TNK1;PRKCQ;MAPK14;MAP4K5;RET;LIMK2	Dasatinib	ABL1;ABL2;BCR/ABL;BTK;CSK;DDR1;DDR2;EPHA1;EPHA2;EPHA4;EPHA5;EPHB2;EPHB3;EPHB4;EPHB6;FGR;FRK;FYN;GAK;HCK;KIT;LCK;LIMK2;LYN;MAP4K5;MAPK14;MAPKAPK2;MYLK;NLK;PDGFRB;PKN1;PRKCQ;PTK6;RET;RIPK2;SIK2;SIK3;SRC;TEC;TESK1;TNK1;TNK2;YES1;ZAK
+dexmedetomidine	dexmedetomidine	other	receptor_agonist		alpha2-adrenergic agonist	none								
+dinaciclib	Dinaciclib	kinase_inhibitor	atp	CDK1;CDK2;CDK5;CDK9	Dina inferred = dinaciclib (inferred)	low	CDK1;CDK2;CDK5;CDK9	CDK12;CDK13;CDK16;CDK17;CDK2;CDK5;CDK6;CDK7;CDK9;CLK1;STK11;STK26	Dinaciclib	CDK2,CDK5,CDK1,CDK9	AFF1;AFF4;CDK9;C2CD5;CABLES1;CCNT1;FIBP;KIAA0195;FAM58BP;FAM58A;CDK13;CCNT2;CCNE1;CCNK;CDK12;CDK6;CDK2;CDK5;STK26	AFF1;AFF4;CDK9;C2CD5;CABLES1;CCNT1;FIBP;KIAA0195;FAM58BP;FAM58A;CDK13;CCNT2;CCNE1;CCNK;CDK12;CDK6;CDK2;CDK5;STK26;CDK16;CCNA2;ICK;GSKIP;CCNH;CAB39;CDK7;STK11;MNAT1;ERCC2;CLK1;CCNB1;CDK17		
+doxorubicin	doxorubicin	stress	DNA_damage		topo II poison	none								
+doxycycline	doxycycline	genetic	inducible_expression		dox-inducible construct	none								
+dyngo	dyngo	other	small_molecule_other		dynamin inhibitor (Dyngo-4a)	none								
+edelfosine	Edelfosine	other	non_kinase		alkyl-lysophospholipid; PLC/PI-PLC inhibition lowers DAG -> PKC (specificity control)	none								
+enzastaurin	Enzastaurin	kinase_inhibitor	atp	PRKCB		medium	PRKCB	GSK3A;GSK3B;PRKCA	Enzastaurin	PRKCB		GSK3B;GSK3A;PRKCA		
+erlotinib	Erlotinib	kinase_inhibitor	atp	EGFR	primary target	medium	EGFR	BUB1;GAK;STK10	Erlotinib	EGFR		BUB1;GAK;STK10;INPPL1		
+etoposide	etoposide	stress	DNA_damage		topo II poison	none								
+everolimus	Everolimus	kinase_inhibitor	allosteric	MTOR	rapalog; mTORC1 only	medium	MTOR							
+flavopiridol	Flavopiridol (alvocidib)	kinase_inhibitor	atp	CDK9;CDK1;CDK2;CDK4;CDK6;CDK7	pan-CDK, CDK9 most potent	high	CDK9;CDK1;CDK2;CDK4;CDK6;CDK7	CDK12;CDK17;CDK5;CDK7;CDK9;CIT;DYRK1A;GSK3A;GSK3B;PRKD3	Alvocidib	CDK1,CDK2,CDK4,CDK6	AFF4;CCNT2;CCNT1;CDK17;CDK9	AFF4;CCNT2;CCNT1;CDK17;CDK9;CDK5;CDK12;CCNB1;CCNB2;FIBP;CCNK;CDK7;CIT;GSK3B;MNAT1;PRKD3;DYRK1A;ERCC2;GSK3A;C2CD5		
+foretinib	Foretinib	kinase_inhibitor	atp	MET;KDR		high	MET;KDR	ABL1;ABL2;AURKB;BTK;DDR1;DDR2;EPHA2;EPHA4;EPHA5;EPHB4;EPHB6;FER;FLT3;FRK;HCK;LCK;LYN;MAP2K5;MAP4K5;MET;MST1R;NTRK1;PLK4;PTK2B;PTK6;RET;RIPK2;RIPK3;SRC	Foretinib	MET,KDR	RET;FRK;SRC;LCK;NTRK1;ZAK;RIPK2;ABL2;FLT3;EPHA2;DDR1;HCK;GRB2;MST1R;MET	RET;FRK;SRC;LCK;NTRK1;ZAK;RIPK2;ABL2;FLT3;EPHA2;DDR1;HCK;GRB2;MST1R;MET;ABL1;BCR;PLK4;PIP4K2C;LYN;MAP2K5;RIPK3;DDR2;EPHA5;INPPL1;AURKB;FER;BTK;PTK6;MAP4K5;EPHB6;PTK2B;EPHB4;EPHA4		
+gefitinib	Gefitinib	kinase_inhibitor	atp	EGFR	primary target	high	EGFR	EGFR;GAK;RIPK2	Gefitinib	EGFR		EGFR;RIPK2;GAK		
+genistein	genistein	other	small_molecule_other		isoflavone; weak broad TK inhibitor	none								
+ginsenoside_rg3	ginsenoside_rg3	other	small_molecule_other		natural compound	none								
+hydroxyurea	hydroxyurea	stress	replication_stress		RNR inhibitor	none								
+ibrutinib	Ibrutinib	kinase_inhibitor	covalent	BTK		high	BTK	ABL2;BTK;CSK;EGFR;FRK;FYN;HCK;LCK;LYN;MAP2K5;PTK6;RIPK2;RIPK3;SRC;TEC;YES1	Ibrutinib	BTK	UNC119;BTK;TEC;YES1;PTK6;HCK;EGFR;RIPK2;RIPK3;SRC	UNC119;BTK;TEC;YES1;PTK6;HCK;EGFR;RIPK2;RIPK3;SRC;LCK;LYN;MAP2K5;PAG1;FYN;CSK;FRK;ABL2		
+idelalisib	Idelalisib (CAL-101)	kinase_inhibitor	lipid_only	PIK3CD	PI3Kdelta	high							CAL101	PIK3CD
+iloprost	iloprost	other	receptor_agonist		prostacyclin IP-receptor agonist (cAMP/PKA)	none								
+imatinib	Imatinib	kinase_inhibitor	atp	ABL1;KIT;PDGFRA;PDGFRB		high	ABL1;KIT;PDGFRA;PDGFRB	ABL1;ABL2;DDR1;DDR2	Imatinib	ABL1,KIT,PDGFRA,PDGFRB	BCR;GRB2;DDR1;NQO2;ABL2;INPPL1	BCR;GRB2;DDR1;NQO2;ABL2;INPPL1;ABL1;DDR2		
+ipatasertib	Ipatasertib (GDC-0068)	kinase_inhibitor	atp	AKT1;AKT2;AKT3	ATP-competitive AKT	high	AKT1;AKT2;AKT3	AKT1;AKT2;AKT3					GDC0068	AKT1;AKT2;AKT3
+kenpaullone	Kenpaullone	kinase_inhibitor	atp	GSK3B;CDK1;CDK2;CDK5	paullone	medium	GSK3B;CDK1;CDK2;CDK5							
+lapatinib	Lapatinib	kinase_inhibitor	atp	EGFR;ERBB2	primary targets	high	EGFR;ERBB2	EGFR	Lapatinib	EGFR,ERBB2	EGFR	EGFR		
+linsitinib	Linsitinib (OSI-906)	kinase_inhibitor	atp	IGF1R;INSR	IGF1R/INSR	high	IGF1R;INSR	FLT3;IGF1R;INSR;LATS1;MAP2K1;MAP4K2;MAP4K5;MET	Linsitinib	IGF1R	MAP4K2	MAP4K2;IGF1R;LATS1;INSR;MOB1A;MOB1B;FLT3;MAP2K1;MET;MAP4K5	OSI906	FLT3;IGF1R;INSR;LATS1;MAP2K1;MAP4K2;MAP4K5;MET
+lorlatinib	Lorlatinib	kinase_inhibitor	atp	ALK;ROS1		medium	ALK;ROS1							
+mTORi	mTOR inhibitor (unspecified)	kinase_inhibitor	pikk	MTOR	compound not named (inferred)	low	MTOR							
+maraviroc	maraviroc	other	receptor_antagonist		CCR5 antagonist	none								
+metformin	metformin	other	metabolic_drug		biguanide; indirect AMPK activation	none								
+methotrexate	methotrexate	stress	replication_stress		antifolate	none								
+neocarzinostatin	neocarzinostatin	stress	DNA_damage		radiomimetic DSB inducer	none								
+nicotine	nicotine	other	receptor_agonist		nAChR agonist	none								
+nintedanib	Nintedanib	kinase_inhibitor	atp	FLT1;KDR;FLT4;FGFR1;FGFR2;FGFR3;PDGFRA;PDGFRB		high	FLT1;KDR;FLT4;FGFR1;FGFR2;FGFR3;PDGFRA;PDGFRB	ABL1;AURKB;DDR1;DDR2;FLT3;IKBKE;JAK2;LCK;MAP2K5;MELK;PDGFRB;RET;SIK2;STK10;STK3;STK4;YES1	Nintedanib	FLT1,KDR,FLT4,FGFR1,FGFR2,FGFR3,PDGFRA,PDGFRB	RET;FLT3;DDR2;DDR1;PDGFRB;MELK;LCK	RET;FLT3;DDR2;DDR1;PDGFRB;MELK;LCK;JAK2;SIK2;STK4;SAV1;IKBKE;MAP2K5;INPPL1;BCR;RASSF5;GRB2;TBKBP1;ABL1;STK3;STK10;YES1;AURKB		
+nocodazole	nocodazole	other	cell_cycle		microtubule depolymeriser (mitotic arrest)	none								
+noscapine	noscapine	other	cell_cycle		microtubule-binding	none								
+okadaic_acid	okadaic_acid	other	phosphatase_inhibitor		PP2A/PP1 inhibitor	none								
+olaparib	Olaparib	other	non_kinase		PARP inhibitor (no kinase GT)	none								
+omipalisib	Omipalisib (GSK2126458)	kinase_inhibitor	pikk	PIK3CA;PIK3CB;PIK3CD;PIK3CG;MTOR	dual PI3K/mTOR	medium	MTOR		Omipalisib	PIK3CA,PIK3CB,PIK3CD,PIK3CG				
+p38i	p38 inhibitor (unspecified)	kinase_inhibitor	atp	MAPK14;MAPK11	compound not named in metadata; p38alpha/beta assumed (inferred)	low	MAPK14;MAPK11							
+paclitaxel	paclitaxel	other	cell_cycle		microtubule stabiliser	none								
+palmitic_acid	palmitic_acid	stress	lipotoxic		saturated fatty acid	none								
+perifosine	Perifosine	kinase_inhibitor	indirect	AKT1;AKT2;AKT3	alkylphospholipid, indirect AKT inhibitor (PH-domain); lower confidence	low	AKT1;AKT2;AKT3							
+pertuzumab	Pertuzumab	kinase_inhibitor	antibody	ERBB2	antibody blocking ERBB2 dimerisation (indirect)	low	ERBB2							
+pervanadate	pervanadate	other	phosphatase_inhibitor		pan-PTP inhibitor (tyrosine phosphorylation up)	none								
+pexidartinib	Pexidartinib	kinase_inhibitor	atp	CSF1R;KIT;FLT3		high	CSF1R;KIT;FLT3	FLT3	Pexidartinib	CSF1R	FLT3	FLT3		
+pictilisib	Pictilisib (GDC-0941)	kinase_inhibitor	lipid_only	PIK3CA;PIK3CB;PIK3CD;PIK3CG		high		MTOR	Pictilisib	PIK3CA,PIK3CD			GDC0941	MTOR;PIK3C2G;PIK3CA;PIK3CB;PIK3CD;PIK3CG;PIKFYVE
+propofol	propofol	other	small_molecule_other		anaesthetic	none								
+quercetin	quercetin	other	small_molecule_other		flavonoid; promiscuous weak kinase inhibitor	none								
+quizartinib	Quizartinib (AC220)	kinase_inhibitor	atp	FLT3	Hijazi drug; FLT3	high	FLT3	FLT3;RET	Quizartinib	FLT3		FLT3;RET;MYH10	AC220	FLT3;RET
+ralimetinib	Ralimetinib (LY2228820)	kinase_inhibitor	atp	MAPK14;MAPK11	LY228820 in metadata inferred = LY2228820 (inferred)	low	MAPK14;MAPK11							
+rapamycin	Rapamycin	kinase_inhibitor	allosteric	MTOR	rapalog; mTORC1 only	medium	MTOR							
+ravoxertinib	Ravoxertinib (GDC-0994)	kinase_inhibitor	atp	MAPK1;MAPK3	ERK1/2	high	MAPK1;MAPK3	AAK1;CAMK1G;GSK3B;HIPK4;MAP2K3;MAP2K4;MAP3K19;MAPK1;MAPK15;MAPK3;MAPK8;MET;SRPK2;TAOK1	GDC-0994	MAPK3,MAPK1	MAPK3;MAPK1	MAPK3;MAPK1;CAMK1G;TAOK1;MET;AAK1;Q6ZSR9;GSK3B;FIBP	GDC0994	AAK1;CAMK1G;GSK3B;HIPK4;KIAA0999;MAP2K3;MAP2K4;MAP3K19;MAPK1;MAPK15;MAPK3;MAPK8;MET;Q6ZSR9;SRPK2;TAOK1
+refametinib	Refametinib	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	allosteric MEK	high	MAP2K1;MAP2K2	CHEK1;MAP2K1;MAP2K2;MAPK10	Refametinib	MAP2K1,MAP2K2	MAPK10	MAPK10;MAP2K1;MAP2K2;CHEK1		
+ribociclib	Ribociclib (LEE011)	kinase_inhibitor	atp	CDK4;CDK6	CDK4/6	high	CDK4;CDK6	CAMK2D;CAMK2G;CDK4;CDK6;GAK	Ribociclib	CDK4,CDK6		CAMK2G;CAMK2D;CDK6;GAK	LEE011	CAMK2D;CAMK2G;CDK4;CDK6;GAK
+ripasudil	Ripasudil	kinase_inhibitor	atp	ROCK1;ROCK2		high	ROCK1;ROCK2	PKN1;PKN2;PRKX;ROCK1;ROCK2	Ripasudil	ROCK1,ROCK2	ROCK1;ROCK2	ROCK1;ROCK2;PKN2;PKN1;PRKX;PRKY;PRKAB2	Ripasudil	PKN1;PKN2;PRKX;PRKY;ROCK1;ROCK2
+rituximab	rituximab	other	antibody_CD20		anti-CD20 antibody (B-cell receptor-like signalling)	none								
+romidepsin	romidepsin	other	epigenetic_drug		HDAC inhibitor	none								
+selumetinib	Selumetinib (AZD6244)	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	allosteric MEK	high	MAP2K1;MAP2K2	MAP2K1;MAP2K2	Selumetinib	MAP2K1	MAP2K1;MAP2K2	MAP2K1;MAP2K2;Q6ZSR9	AZD6244	MAP2K1;MAP2K2;Q6ZSR9
+semaglutide	semaglutide	other	receptor_agonist		GLP-1R agonist (peptide)	none								
+sorafenib	Sorafenib	kinase_inhibitor	atp	RAF1;BRAF	multi-kinase; Klaeger designated RAF1,BRAF	medium	RAF1;BRAF	RET	Sorafenib	RAF1,BRAF		RET;ZAK		
+staurosporine	Staurosporine	kinase_inhibitor	pan	PAN	pan-kinase; no specific GT (excluded)	low								
+tamoxifen	tamoxifen	other	small_molecule_other		SERM	none								
+tanzisertib	Tanzisertib (CC-930)	kinase_inhibitor	atp	MAPK8;MAPK9;MAPK10		high	MAPK8;MAPK9;MAPK10	GAK;MAPK10;MAPK14;MAPK8;MAPK9;MAPKAPK2	Tanzisertib	MAPK8,MAPK9,MAPK10	MAPK10;MAPK9;MAPK8	MAPK10;MAPK9;MAPK8;GAK;MAPK14;MAPKAPK2		
+temozolomide	temozolomide	stress	DNA_damage		alkylating	none								
+temsirolimus	Temsirolimus	kinase_inhibitor	allosteric	MTOR	rapalog; mTORC1 only	medium	MTOR							
+thymidine	thymidine	other	cell_cycle		G1/S arrest	none								
+tideglusib	Tideglusib	kinase_inhibitor	covalent	GSK3B	irreversible, weak in cells	medium	GSK3B							
+tofacitinib	Tofacitinib	kinase_inhibitor	atp	JAK1;JAK2;JAK3		high	JAK1;JAK2;JAK3	AURKB;JAK1;JAK2;JAK3;PKN1	Tofacitinib	JAK3	INCENP;PKN1	INCENP;PKN1;AURKB	Tofacitinib	AURKB;JAK1;JAK2;JAK3;PKN1
+torin1	Torin1	kinase_inhibitor	pikk	MTOR	ATP-competitive mTORC1/2	high	MTOR	MTOR					Torin1	MTOR
+torkinib	Torkinib (PP242)	kinase_inhibitor	pikk	MTOR	ATP-competitive mTORC1/2	medium	MTOR							
+trametinib	Trametinib	kinase_inhibitor	allosteric	MAP2K1;MAP2K2	allosteric MEK	high	MAP2K1;MAP2K2	MAP2K1;MAP2K2	Trametinib	MAP2K1,MAP2K2	MAP2K2;MAP2K1	MAP2K2;MAP2K1	Trametinib	MAP2K1;MAP2K2
+trastuzumab	Trastuzumab	kinase_inhibitor	antibody	ERBB2	antibody; ERBB2 signalling decrease (indirect, weaker)	low	ERBB2							
+ulixertinib	Ulixertinib	kinase_inhibitor	atp	MAPK1;MAPK3	ERK1/2	high	MAPK1;MAPK3	MAPK1;MAPK3;TAOK1	Ulixertinib	MAPK3,MAPK1		MAPK3;MAPK1;TAOK1	Ulixertinib	MAPK1;MAPK3;TAOK1
+vemurafenib	Vemurafenib (PLX4032)	kinase_inhibitor	atp	BRAF	downstream MEK/ERK decrease only in BRAF-V600 cells (paradoxical activation in RAS-mutant/WT)	medium	BRAF	MAP2K5;RAF1;RIPK2	Vemurafenib	BRAF		ZAK;RIPK2;MAP2K5	Vemurafenib	MAP2K5;RAF1;RIPK2;ZAK
+vorinostat	vorinostat	other	epigenetic_drug		HDAC inhibitor	none								
+wortmannin	Wortmannin	kinase_inhibitor	covalent	PIK3CA;PIK3CB;PIK3CD;PIK3CG	covalent pan-PI3K	medium								

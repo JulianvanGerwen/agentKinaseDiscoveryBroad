@@ -1,0 +1,7 @@
+# I22 SUMMARY — is the reverse layer cell-intrinsic / baseline-predicted? (saved by PI from agent message)
+Pre-declared H1–H4 (NOTES.md). 309 inhibitor + 64 stimulation experiments, 115 study×cell units, 46 studies; motif profiles (dpct, lor90; raw/centred); DepMap RNA (47 lines), Gygi proteome (26), Chronos (38).
+- **H1 not supported across studies:** same-cell vs different-cell reverse-profile similarity across studies Δr −0.01 [−0.20,0.19]; site-level reverse replication same cell +0.20 [−0.29,0.54] ns; MCF7 Hijazi vs MCF7 Ochoa: reverse sites don't replicate even in the same cell line (LOR −0.10), primary do (0.28). **Within one study (Hijazi, 3 cells × 58 drugs) reverse profiles group by cell** (r .15–.18 vs .06–.09 same drug diff cell), robust to shared-control centring and coverage restriction. → reverse layer is study×culture-specific, not cell-line intrinsic.
+- **H2 not supported:** baseline RNA/proteome vs reverse enrichment ρ ≈ 0 (p .86/.53); 4/132 targeted tests p<.05 (6.6 expected). Positive control (site detection tracks RNA, ρ .135, p .003) shows power.
+- H3: study/lab is the decisive factor; saturation untestable. H4 (DepMap) null.
+Novelty: no prior cross-lab test of compensatory responses found; modest. Self C3/N2/P2; drop "cell-intrinsic repertoire" framing.
+Files: results/b_I22/tables T1–T8, figures/fig1_reverse_layer_cell_identity.png, NOTES.md; scripts/b_I22/01–08.

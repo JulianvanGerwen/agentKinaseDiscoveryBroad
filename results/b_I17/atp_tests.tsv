@@ -1,0 +1,7 @@
+test	n_nonATP	n_ATP	median_nonATP	median_ATP	effect	p	lodo_min	lodo_max	note
+(a) non-ATP-site minus ATP-site, shift_tsub	4.0	7	0.5199219240238486	-1.0260912590556843	1.546013183079533	0.11515151515151514	1.3867538610557568	1.705272505103309	
+(a) non-ATP-site minus ATP-site, shift_all	4.0	8	0.2824219240238488	-1.2422840376902622	1.524705961714111	0.024242424242424246	1.1085131830795332	1.9408987403486888	
+(b) Spearman shift_tsub vs Km(ATP), ATP-site non-covalent		5			0.4472135954999579	0.4501848557521007			CUDC101:18.0;dasatinib:9.8;gefitinib:18.0;imatinib:5.2;lapatinib:18.0
+(b) median observed minus Cheng-Prusoff(1 mM) predicted		5			1.0839848216355392				positive = smaller shift than predicted
+(b) implied [ATP]/Km from observed shift (median)		5			6.109112542008309				
+(c) type II minus type I, shift_tsub	2.0	4			-0.4579359926515215	0.5333333333333333			

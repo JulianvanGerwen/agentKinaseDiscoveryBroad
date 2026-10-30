@@ -1,0 +1,9 @@
+perturbation_class	n_conditions	n_studies
+cytokine	97	11
+disease_vs_control	75	21
+genetic	69	31
+growth_factor	48	13
+kinase_inhibitor	850	55
+other	564	63
+stress	142	27
+time_course	92	3

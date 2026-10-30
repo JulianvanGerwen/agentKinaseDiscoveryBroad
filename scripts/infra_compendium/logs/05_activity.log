@@ -1,0 +1,10 @@
+PSP-only library: 17376 edges, 401 kinases, 11473 sites
+                                       corev3  psp_z
+kinases_any                             503.0  189.0
+kinases_ge50pct                         503.0   66.0
+kinases_direct_nsub_ge1_any             503.0  189.0
+kinases_nsub_ge5_ge50pct                352.0   66.0
+median_kinases_per_condition            503.0   72.0
+median_kinases_nsub_ge5_per_condition   346.0   72.0
+core-v3 vs psp_z: 135475 shared kinase-condition pairs, Pearson r = 0.578, Spearman = 0.562
+10.14 s 6499908 KB

@@ -1,0 +1,18 @@
+model loaded 0.2s
+250/1937 conditions, 1.7s (total 2s)
+500/1937 conditions, 0.6s (total 3s)
+750/1937 conditions, 0.6s (total 3s)
+1000/1937 conditions, 0.6s (total 4s)
+1250/1937 conditions, 0.5s (total 4s)
+1500/1937 conditions, 0.5s (total 5s)
+1750/1937 conditions, 0.6s (total 6s)
+1937/1937 conditions, 0.4s (total 6s)
+         condition  kinase         z  ...  n_substrates    z_core  z_sig
+0  28302921_1_log2    AAK1  0.094633  ...             3  0.094633    NaN
+1  28302921_1_log2    ABL1 -0.064751  ...             2 -0.064751    NaN
+2  28302921_1_log2    ABL2 -0.019069  ...             0 -0.019069    NaN
+3  28302921_1_log2   ACVR1  0.853274  ...             5  0.853274    NaN
+4  28302921_1_log2  ACVR1B  1.144067  ...             3  1.144067    NaN
+
+[5 rows x 8 columns] ['condition', 'kinase', 'z', 'mean', 'sd', 'n_substrates', 'z_core', 'z_sig']
+done 6s; info {'n_input_sites': 189962, 'n_library_sites_matched': 27601, 'n_unknown_sites': 159986, 'n_conditions': 187, 'n_signature_sites_matched': 3509, 'n_patterns': 139, 'n_woodbury': 0, 'device': 'cpu', 'model': 'core-v3', 'rho_e': 0.01, 'alpha_sig': 1.0, 'rho_sig': 0.8977178151216297}

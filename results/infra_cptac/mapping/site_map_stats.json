@@ -1,0 +1,24 @@
+{
+ "n_ids": 127040,
+ "n_mapped": 126659,
+ "rate": 0.9970009445843828,
+ "n_unique_site_keys": 125753,
+ "method": {
+  "same_pos": 123160,
+  "win15": 3479,
+  "no_uniprot": 201,
+  "window_not_found": 180,
+  "win7": 9,
+  "win11": 8,
+  "win15_multi": 2,
+  "win7_multi": 1
+ },
+ "acc_source": {
+  "ensp_swissprot": 121204,
+  "gene_name": 5455
+ },
+ "residue_check_pass_of_mapped": 1.0,
+ "pos_shift_nonzero": 3495,
+ "rate_primary_isoform": 0.9976413221302752,
+ "rate_secondary_isoform": 0.9251336898395722
+}

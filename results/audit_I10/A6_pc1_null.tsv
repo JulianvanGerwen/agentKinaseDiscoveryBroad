@@ -1,0 +1,7 @@
+what	value	note
+PC1 variance, real footprints (b_I10 nz)	0.27127247078021055	
+PC1 variance, matched random sets with identical weights/signs (20 draws) median [min-max]	0.03706148639321327	0.034-0.041
+Spearman(PC1 loading, fraction of down-weighted sites) across 49 footprints	-0.7719432698072669	
+Spearman(PC1 sample score, MAPK1/3 corev3 tc_padj)	0.700905170213901	
+PC1 variance after dropping MAPK-redundant footprints (keep KI_MEK)	0.22341779797118377	GPCR_ligand:+0.28;phosphatase_inh:+0.26;KI_MEK:-0.26;PI3Kaxis:-0.25;KI_AURK_PLK:-0.23;immune_receptor:+0.22;TNF:+0.22;KI_PI3K:-0.21;KI_CDK4_6:-0.20;KI_mTORcat:-0.20
+PC1 variance with no MAPK footprint at all	0.2152041091592752	rho(PC1, MAPK1/3)=0.55; rho(loading, frac_down)=-0.65

@@ -1,0 +1,7 @@
+control	score	mean	sd	observed_same
+observed	s_new_oof	0.6105617474401593		
+observed	s_newm_oof	0.7651292878612381		
+random kinase permutation	s_new_oof	0.528497607882439	0.016511404703892424	
+random kinase permutation	s_newm_oof	0.5341629836961099	0.03647074388062645	
+within-family swap (moved kinases)	s_new_oof	0.5774052872292701	0.022857619076613454	0.5942348542678203
+within-family swap (moved kinases)	s_newm_oof	0.7354354924826554	0.01843035379703214	0.7664657159249699

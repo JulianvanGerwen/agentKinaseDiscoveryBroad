@@ -1,0 +1,504 @@
+kinase	cls_corev3	cls_meanz	consensus
+AAK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ABL1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+ABL2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVR1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVR1B	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVR1C	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVR2A	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVR2B	uncoupled(no site)		corev3 only: uncoupled(no site)
+ACVRL1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ADCK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ADCK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ADCK5	uncoupled(no site)		corev3 only: uncoupled(no site)
+AKT1	uncoupled	uncoupled	uncoupled
+AKT2	uncoupled	uncoupled	uncoupled
+AKT3	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+ALK	uncoupled(no site)		corev3 only: uncoupled(no site)
+ALPK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ALPK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ALPK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+AMHR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ANKK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ARAF	uncoupled		corev3 only: uncoupled
+ATM	PTM	uncoupled	discordant
+ATR	uncoupled	uncoupled	uncoupled
+AURKA	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+AURKB	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+AURKC	uncoupled(no site)		corev3 only: uncoupled(no site)
+AXL	uncoupled(no site)		corev3 only: uncoupled(no site)
+BCKDK	uncoupled(no site)		corev3 only: uncoupled(no site)
+BLK	uncoupled(no site)		corev3 only: uncoupled(no site)
+BMP2K	uncoupled(no site)		corev3 only: uncoupled(no site)
+BMPR1A	uncoupled(no site)		corev3 only: uncoupled(no site)
+BMPR1B	uncoupled(no site)		corev3 only: uncoupled(no site)
+BMPR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+BMX	uncoupled(no site)		corev3 only: uncoupled(no site)
+BRAF	uncoupled		corev3 only: uncoupled
+BRSK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+BRSK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+BTK	uncoupled(no site)		corev3 only: uncoupled(no site)
+BUB1	uncoupled(no site)		corev3 only: uncoupled(no site)
+BUB1B	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMK1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CAMK1D	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMK1G	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMK2A	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CAMK2B	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMK2D	abundance		corev3 only: abundance
+CAMK2G	uncoupled		corev3 only: uncoupled
+CAMK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMKK1	uncoupled		corev3 only: uncoupled
+CAMKK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+CAMKV	uncoupled(no site)		corev3 only: uncoupled(no site)
+CASK	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDC42BPA	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDC42BPB	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDC42BPG	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDC7	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CDK1	abundance	abundance	abundance
+CDK10	uncoupled		corev3 only: uncoupled
+CDK11A	uncoupled		corev3 only: uncoupled
+CDK11B	uncoupled		corev3 only: uncoupled
+CDK12	uncoupled		corev3 only: uncoupled
+CDK13	uncoupled	uncoupled	uncoupled
+CDK14	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK15	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK16	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK17	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK18	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK19	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK2	abundance	abundance	abundance
+CDK20	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDK4	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CDK5	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CDK6	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CDK7	uncoupled	uncoupled	uncoupled
+CDK8	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CDK9	uncoupled	uncoupled	uncoupled
+CDKL1	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDKL2	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDKL3	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDKL4	uncoupled(no site)		corev3 only: uncoupled(no site)
+CDKL5	uncoupled(no site)	abundance	discordant
+CHEK1	uncoupled	uncoupled	uncoupled
+CHEK2	PTM	uncoupled	discordant
+CHUK	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CILK1	uncoupled		corev3 only: uncoupled
+CIT	uncoupled(no site)		corev3 only: uncoupled(no site)
+CLK1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CLK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+CLK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+CLK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+COQ8A	uncoupled(no site)		corev3 only: uncoupled(no site)
+COQ8B	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSF1R	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSK	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK1A1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CSNK1A1L	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK1D	uncoupled	uncoupled	uncoupled
+CSNK1E	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK1G1	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK1G2	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK1G3	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK2A1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+CSNK2A2	uncoupled(no site)		corev3 only: uncoupled(no site)
+CSNK2A3	uncoupled(no site)		corev3 only: uncoupled(no site)
+DAPK1	PTM		corev3 only: PTM
+DAPK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+DAPK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+DCLK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+DCLK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+DCLK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+DDR1	uncoupled		corev3 only: uncoupled
+DDR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+DMPK	uncoupled(no site)		corev3 only: uncoupled(no site)
+DSTYK	uncoupled(no site)		corev3 only: uncoupled(no site)
+DYRK1A	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+DYRK1B	uncoupled(no site)		corev3 only: uncoupled(no site)
+DYRK2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+DYRK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+DYRK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+EEF2K	uncoupled		corev3 only: uncoupled
+EGFR	PTM	abundance+PTM	discordant
+EIF2AK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+EIF2AK2	PTM		corev3 only: PTM
+EIF2AK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+EIF2AK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA1	uncoupled		corev3 only: uncoupled
+EPHA10	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA2	PTM		corev3 only: PTM
+EPHA3	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA4	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA5	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA6	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA7	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHA8	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHB1	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHB2	uncoupled		corev3 only: uncoupled
+EPHB3	uncoupled(no site)		corev3 only: uncoupled(no site)
+EPHB4	uncoupled		corev3 only: uncoupled
+EPHB6	uncoupled(no site)		corev3 only: uncoupled(no site)
+ERBB2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ERBB3	uncoupled(no site)		corev3 only: uncoupled(no site)
+ERBB4	uncoupled(no site)		corev3 only: uncoupled(no site)
+ERN1	uncoupled		corev3 only: uncoupled
+ERN2	uncoupled(no site)		corev3 only: uncoupled(no site)
+FAM20A	uncoupled(no site)		corev3 only: uncoupled(no site)
+FAM20C	uncoupled(no site)		corev3 only: uncoupled(no site)
+FASTK	uncoupled(no site)		corev3 only: uncoupled(no site)
+FER	uncoupled(no site)		corev3 only: uncoupled(no site)
+FES	uncoupled(no site)		corev3 only: uncoupled(no site)
+FGFR1	uncoupled(no site)		corev3 only: uncoupled(no site)
+FGFR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+FGFR3	uncoupled(no site)		corev3 only: uncoupled(no site)
+FGFR4	uncoupled(no site)		corev3 only: uncoupled(no site)
+FGR	uncoupled(no site)		corev3 only: uncoupled(no site)
+FLT1	uncoupled(no site)		corev3 only: uncoupled(no site)
+FLT3	uncoupled(no site)		corev3 only: uncoupled(no site)
+FLT4	uncoupled(no site)		corev3 only: uncoupled(no site)
+FRK	uncoupled(no site)		corev3 only: uncoupled(no site)
+FYN	uncoupled	uncoupled	uncoupled
+GAK	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK5	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK6	uncoupled(no site)		corev3 only: uncoupled(no site)
+GRK7	uncoupled(no site)		corev3 only: uncoupled(no site)
+GSK3A	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+GSK3B	uncoupled	uncoupled	uncoupled
+HASPIN	uncoupled(no site)		corev3 only: uncoupled(no site)
+HCK	uncoupled(no site)		corev3 only: uncoupled(no site)
+HIPK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+HIPK2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+HIPK3	uncoupled		corev3 only: uncoupled
+HIPK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+HUNK	uncoupled(no site)		corev3 only: uncoupled(no site)
+IGF1R	uncoupled(no site)		corev3 only: uncoupled(no site)
+IKBKB	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+IKBKE	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+ILK	uncoupled(no site)		corev3 only: uncoupled(no site)
+INSR	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+INSRR	uncoupled(no site)		corev3 only: uncoupled(no site)
+IRAK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+IRAK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+IRAK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+IRAK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+ITK	uncoupled(no site)		corev3 only: uncoupled(no site)
+JAK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+JAK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+JAK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+KALRN	uncoupled(no site)		corev3 only: uncoupled(no site)
+KDR	uncoupled(no site)		corev3 only: uncoupled(no site)
+KIT	uncoupled(no site)		corev3 only: uncoupled(no site)
+KSR1	uncoupled(no site)		corev3 only: uncoupled(no site)
+KSR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+LATS1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+LATS2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+LCK	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+LIMK1	uncoupled		corev3 only: uncoupled
+LIMK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+LMTK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+LMTK2	uncoupled		corev3 only: uncoupled
+LMTK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+LRRK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+LRRK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+LTK	uncoupled(no site)		corev3 only: uncoupled(no site)
+LYN	uncoupled		corev3 only: uncoupled
+MAK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP2K1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP2K2	uncoupled		corev3 only: uncoupled
+MAP2K3	uncoupled		corev3 only: uncoupled
+MAP2K4	uncoupled		corev3 only: uncoupled
+MAP2K5	uncoupled		corev3 only: uncoupled
+MAP2K6	uncoupled		corev3 only: uncoupled
+MAP2K7	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K10	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K11	uncoupled		corev3 only: uncoupled
+MAP3K12	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K13	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K14	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K15	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K19	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K2	uncoupled		corev3 only: uncoupled
+MAP3K20	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K21	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K3	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K5	uncoupled		corev3 only: uncoupled
+MAP3K6	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP3K7	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+MAP3K8	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+MAP3K9	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP4K1	uncoupled		corev3 only: uncoupled
+MAP4K2	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP4K3	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP4K4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAP4K5	abundance+PTM		corev3 only: abundance+PTM
+MAPK1	PTM	PTM	PTM
+MAPK10	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+MAPK11	uncoupled	uncoupled	uncoupled
+MAPK12	uncoupled	uncoupled	uncoupled
+MAPK13	PTM	uncoupled	discordant
+MAPK14	uncoupled	uncoupled	uncoupled
+MAPK15	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAPK3	PTM	PTM	PTM
+MAPK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAPK6	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAPK7	PTM	uncoupled	discordant
+MAPK8	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+MAPK9	uncoupled	uncoupled	uncoupled
+MAPKAPK2	uncoupled	uncoupled	uncoupled
+MAPKAPK3	uncoupled		corev3 only: uncoupled
+MAPKAPK5	PTM		corev3 only: PTM
+MARK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MARK2	uncoupled	uncoupled	uncoupled
+MARK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+MARK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAST1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAST2	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAST3	uncoupled(no site)		corev3 only: uncoupled(no site)
+MAST4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MASTL	uncoupled(no site)		corev3 only: uncoupled(no site)
+MATK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MELK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MERTK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MET	uncoupled		corev3 only: uncoupled
+MINK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MKNK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+MKNK2	uncoupled		corev3 only: uncoupled
+MLKL	uncoupled(no site)		corev3 only: uncoupled(no site)
+MOK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MOS	uncoupled(no site)		corev3 only: uncoupled(no site)
+MST1R	uncoupled(no site)		corev3 only: uncoupled(no site)
+MTOR	PTM	PTM	PTM
+MUSK	uncoupled(no site)		corev3 only: uncoupled(no site)
+MYLK	abundance		corev3 only: abundance
+MYLK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+MYLK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+MYLK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+MYO3A	uncoupled(no site)		corev3 only: uncoupled(no site)
+MYO3B	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK10	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK11	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK5	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK6	uncoupled	uncoupled	uncoupled
+NEK7	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK8	uncoupled(no site)		corev3 only: uncoupled(no site)
+NEK9	uncoupled		corev3 only: uncoupled
+NIM1K	uncoupled(no site)		corev3 only: uncoupled(no site)
+NLK	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+NRBP1	abundance		corev3 only: abundance
+NRBP2	abundance		corev3 only: abundance
+NRK	uncoupled(no site)		corev3 only: uncoupled(no site)
+NTRK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+NTRK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+NTRK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+NUAK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+NUAK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+OBSCN	uncoupled(no site)		corev3 only: uncoupled(no site)
+OXSR1	uncoupled		corev3 only: uncoupled
+PAK1	PTM	PTM	PTM
+PAK2	uncoupled	uncoupled	uncoupled
+PAK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+PAK4	uncoupled	PTM	discordant
+PAK5	uncoupled(no site)		corev3 only: uncoupled(no site)
+PAK6	uncoupled(no site)		corev3 only: uncoupled(no site)
+PAN3	uncoupled(no site)		corev3 only: uncoupled(no site)
+PASK	uncoupled(no site)		corev3 only: uncoupled(no site)
+PBK	uncoupled(no site)		corev3 only: uncoupled(no site)
+PDGFRA	uncoupled(no site)		corev3 only: uncoupled(no site)
+PDGFRB	uncoupled(no site)		corev3 only: uncoupled(no site)
+PDIK1L	uncoupled(no site)		corev3 only: uncoupled(no site)
+PDK1	abundance		corev3 only: abundance
+PDK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+PDK3	abundance		corev3 only: abundance
+PDK4	abundance		corev3 only: abundance
+PDPK1	uncoupled		corev3 only: uncoupled
+PEAK1	abundance		corev3 only: abundance
+PEAK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+PHKG1	uncoupled(no site)		corev3 only: uncoupled(no site)
+PHKG2	uncoupled		corev3 only: uncoupled
+PIK3R4	uncoupled(no site)		corev3 only: uncoupled(no site)
+PIM1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PIM2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PIM3	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PINK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+PKDCC	uncoupled(no site)		corev3 only: uncoupled(no site)
+PKMYT1	uncoupled(no site)		corev3 only: uncoupled(no site)
+PKN1	uncoupled	uncoupled	uncoupled
+PKN2	uncoupled		corev3 only: uncoupled
+PKN3	uncoupled(no site)		corev3 only: uncoupled(no site)
+PLK1	uncoupled	uncoupled	uncoupled
+PLK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+PLK3	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PLK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+PLK5	uncoupled(no site)		corev3 only: uncoupled(no site)
+PNCK	uncoupled(no site)		corev3 only: uncoupled(no site)
+PRAG1	uncoupled(no site)		corev3 only: uncoupled(no site)
+PRKAA1	uncoupled(no site)	abundance	discordant
+PRKAA2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PRKACA	uncoupled	uncoupled	uncoupled
+PRKACB	abundance		corev3 only: abundance
+PRKACG	uncoupled(no site)		corev3 only: uncoupled(no site)
+PRKCA	uncoupled	uncoupled	uncoupled
+PRKCB	uncoupled	uncoupled	uncoupled
+PRKCD	PTM	uncoupled	discordant
+PRKCE	uncoupled	uncoupled	uncoupled
+PRKCG	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PRKCH	uncoupled		corev3 only: uncoupled
+PRKCI	uncoupled	uncoupled	uncoupled
+PRKCQ	uncoupled	uncoupled	uncoupled
+PRKCZ	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PRKD1	PTM	PTM	PTM
+PRKD2	uncoupled	PTM	discordant
+PRKD3	uncoupled(no site)		corev3 only: uncoupled(no site)
+PRKDC	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PRKG1	uncoupled	uncoupled	uncoupled
+PRKG2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+PRKX	uncoupled(no site)		corev3 only: uncoupled(no site)
+PRP4K	uncoupled		corev3 only: uncoupled
+PSKH1	uncoupled(no site)		corev3 only: uncoupled(no site)
+PSKH2	uncoupled(no site)		corev3 only: uncoupled(no site)
+PTK2	PTM	PTM	PTM
+PTK2B	uncoupled(no site)		corev3 only: uncoupled(no site)
+PTK6	uncoupled(no site)		corev3 only: uncoupled(no site)
+PTK7	uncoupled(no site)		corev3 only: uncoupled(no site)
+PXK	uncoupled(no site)		corev3 only: uncoupled(no site)
+RAF1	uncoupled		corev3 only: uncoupled
+RET	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIOK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIOK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIOK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIPK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIPK2	uncoupled		corev3 only: uncoupled
+RIPK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+RIPK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+RNASEL	uncoupled(no site)		corev3 only: uncoupled(no site)
+ROCK1	PTM	PTM	PTM
+ROCK2	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+ROR1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ROR2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ROS1	uncoupled(no site)		corev3 only: uncoupled(no site)
+RPS6KA1	PTM	PTM	PTM
+RPS6KA2	uncoupled		corev3 only: uncoupled
+RPS6KA3	abundance	uncoupled	discordant
+RPS6KA4	abundance		corev3 only: abundance
+RPS6KA5	abundance+PTM	abundance+PTM	abundance+PTM
+RPS6KA6	uncoupled(no site)		corev3 only: uncoupled(no site)
+RPS6KB1	uncoupled	PTM	discordant
+RPS6KB2	uncoupled	uncoupled	uncoupled
+RPS6KC1	uncoupled(no site)		corev3 only: uncoupled(no site)
+RPS6KL1	uncoupled(no site)		corev3 only: uncoupled(no site)
+RSKR	uncoupled(no site)		corev3 only: uncoupled(no site)
+RYK	uncoupled(no site)		corev3 only: uncoupled(no site)
+SBK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+SBK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+SBK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+SCYL1	uncoupled(no site)		corev3 only: uncoupled(no site)
+SCYL2	uncoupled(no site)		corev3 only: uncoupled(no site)
+SCYL3	uncoupled(no site)		corev3 only: uncoupled(no site)
+SGK1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+SGK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+SGK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+SIK1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+SIK2	uncoupled	uncoupled	uncoupled
+SIK3	uncoupled		corev3 only: uncoupled
+SLK	PTM		corev3 only: PTM
+SMG1	uncoupled(no site)		corev3 only: uncoupled(no site)
+SNRK	uncoupled		corev3 only: uncoupled
+SPEG	uncoupled(no site)		corev3 only: uncoupled(no site)
+SRC	uncoupled	uncoupled	uncoupled
+SRMS	uncoupled(no site)		corev3 only: uncoupled(no site)
+SRPK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+SRPK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+SRPK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK10	uncoupled		corev3 only: uncoupled
+STK11	uncoupled		corev3 only: uncoupled
+STK16	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK17A	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK17B	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK24	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK25	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK26	PTM		corev3 only: PTM
+STK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK31	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK32A	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK32B	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK32C	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK33	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK35	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK36	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK38	uncoupled	uncoupled	uncoupled
+STK38L	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK39	PTM		corev3 only: PTM
+STK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+STK40	uncoupled(no site)		corev3 only: uncoupled(no site)
+STKLD1	uncoupled(no site)		corev3 only: uncoupled(no site)
+STRADA	uncoupled(no site)		corev3 only: uncoupled(no site)
+STRADB	uncoupled(no site)		corev3 only: uncoupled(no site)
+STYK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+SYK	uncoupled	PTM	discordant
+TAOK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TAOK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TAOK3	uncoupled		corev3 only: uncoupled
+TBCK	uncoupled(no site)		corev3 only: uncoupled(no site)
+TBK1	uncoupled	abundance	discordant
+TEC	uncoupled(no site)		corev3 only: uncoupled(no site)
+TEK	uncoupled		corev3 only: uncoupled
+TESK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TESK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TEX14	uncoupled(no site)		corev3 only: uncoupled(no site)
+TGFBR1	uncoupled		corev3 only: uncoupled
+TGFBR2	uncoupled		corev3 only: uncoupled
+TIE1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TLK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TLK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TNIK	uncoupled		corev3 only: uncoupled
+TNK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TNK2	uncoupled		corev3 only: uncoupled
+TNNI3K	uncoupled(no site)		corev3 only: uncoupled(no site)
+TP53RK	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRIB1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRIB2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRIB3	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRIO	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRPM6	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRPM7	uncoupled(no site)		corev3 only: uncoupled(no site)
+TRRAP	uncoupled(no site)		corev3 only: uncoupled(no site)
+TSSK1B	uncoupled(no site)		corev3 only: uncoupled(no site)
+TSSK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TSSK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+TSSK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+TSSK6	uncoupled(no site)		corev3 only: uncoupled(no site)
+TTBK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+TTBK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TTK	uncoupled(no site)		corev3 only: uncoupled(no site)
+TTN	uncoupled(no site)		corev3 only: uncoupled(no site)
+TXK	uncoupled(no site)		corev3 only: uncoupled(no site)
+TYK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+TYRO3	uncoupled(no site)		corev3 only: uncoupled(no site)
+UHMK1	uncoupled(no site)	uncoupled(no site)	uncoupled(no site)
+ULK1	uncoupled	uncoupled	uncoupled
+ULK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+ULK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+ULK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+VRK1	uncoupled(no site)		corev3 only: uncoupled(no site)
+VRK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+VRK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+WEE1	uncoupled		corev3 only: uncoupled
+WEE2	uncoupled(no site)		corev3 only: uncoupled(no site)
+WNK1	uncoupled		corev3 only: uncoupled
+WNK2	uncoupled(no site)		corev3 only: uncoupled(no site)
+WNK3	uncoupled(no site)		corev3 only: uncoupled(no site)
+WNK4	uncoupled(no site)		corev3 only: uncoupled(no site)
+YES1	uncoupled(no site)		corev3 only: uncoupled(no site)
+ZAP70	uncoupled(no site)		corev3 only: uncoupled(no site)

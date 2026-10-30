@@ -1,0 +1,64 @@
+conditionID	kam	mine
+26572502_qPTM_1_log2	{'VE821', 'hydroxyurea'}	{'VE821'}
+30650350_2_log2	{'temozolomide'}	set()
+32142685_qPTM_5_log2	{'NMS873'}	set()
+32142685_qPTM_6_log2	{'CB5083'}	set()
+33215756_10_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_11_log2	{'neocarzinostatin'}	{'DNAPKi'}
+33215756_12_log2	{'neocarzinostatin'}	{'ATMi'}
+33215756_13_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_14_log2	{'neocarzinostatin'}	{'DNAPKi'}
+33215756_15_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_16_log2	{'neocarzinostatin'}	{'DNAPKi'}
+33215756_17_log2	{'neocarzinostatin'}	{'ATMi'}
+33215756_18_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_19_log2	{'neocarzinostatin'}	{'DNAPKi'}
+33215756_20_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_21_log2	{'neocarzinostatin'}	{'DNAPKi'}
+33215756_23_log2	{'hydroxyurea'}	{'ATMi'}
+33215756_24_log2	{'hydroxyurea'}	{'ATRi'}
+33215756_25_log2	{'hydroxyurea'}	{'DNAPKi'}
+33215756_7_log2	{'neocarzinostatin'}	{'ATMi'}
+33215756_8_log2	{'neocarzinostatin'}	{'ATRi'}
+33215756_9_log2	{'neocarzinostatin'}	{'DNAPKi'}
+34663829_03_2_log2	{'7Oxo'}	set()
+34663829_03_3_log2	{'JNKi'}	set()
+34663829_03_4_log2	{'MEKi'}	set()
+34663829_03_5_log2	{'p38i'}	set()
+34663829_03_6_log2	{'TPCA1'}	set()
+34663829_04_2_log2	{'7Oxo'}	set()
+34663829_04_3_log2	{'ralimetinib'}	set()
+34663829_04_4_log2	{'MRT'}	set()
+34663829_07_10_log2	{'THZ1'}	set()
+34663829_07_14_log2	{'CDK12IN3'}	set()
+34663829_07_15_log2	{'dinaciclib'}	set()
+34663829_07_16_log2	{'THZ1'}	set()
+34663829_07_8_log2	{'CDK12IN3'}	set()
+34663829_07_9_log2	{'dinaciclib'}	set()
+37813859_02_10_log2	{'danuglipron'}	set()
+37813859_02_11_log2	{'dyngo', 'semaglutide'}	{'dyngo'}
+37813859_02_12_log2	{'semaglutide'}	set()
+37813859_02_3_log2	{'dyngo', 'danuglipron'}	{'danuglipron'}
+37813859_02_4_log2	{'dyngo', 'semaglutide'}	{'semaglutide'}
+37813859_02_9_log2	{'dyngo', 'danuglipron'}	{'dyngo'}
+38593799_2_log2	{'bleomycin'}	{'DNAPKi'}
+38593799_6_log2	{'DNAPKi'}	set()
+30241606_1_log2	set()	{'carboplatin'}
+30241606_2_log2	set()	{'carboplatin'}
+30241606_4_log2	set()	{'carboplatin'}
+30241606_5_log2	set()	{'carboplatin'}
+34663829_04_10_log2	set()	{'SM_unspecified'}
+34663829_04_11_log2	set()	{'SM_unspecified'}
+34663829_06_2_log2	set()	{'SM_unspecified'}
+34663829_06_3_log2	set()	{'SM_unspecified'}
+34663829_06_4_log2	set()	{'SM_unspecified'}
+34663829_06_5_log2	set()	{'SM_unspecified'}
+38593799_5_log2	set()	{'DNAPKi'}
+21857030_qPTM_1_log2	set()	{'BI4834'}
+22115753_qPTM_2_log2	set()	{'gefitinib'}
+25849741_qPTM_2_log2	set()	{'SC514'}
+25849741_qPTM_4_log2	set()	{'SC514'}
+28539327_qPTM_2_log2	set()	{'SM_unspecified'}
+30459283_qPTM_1_log2	set()	{'ceritinib'}
+30459283_qPTM_2_log2	set()	{'TAE684'}
+30459283_qPTM_3_log2	set()	{'crizotinib'}

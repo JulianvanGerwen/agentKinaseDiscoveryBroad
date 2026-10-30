@@ -1,0 +1,349 @@
+cohort	set	what	value
+ALL	KI_MEK	overlap with ischaemia top-200 (n, sign-concordance)	4 (0.00)
+ALL	KI_MEK	n footprint sites in ischaemia top-500	12
+ALL	EGF	overlap with ischaemia top-200 (n, sign-concordance)	8 (1.00)
+ALL	EGF	n footprint sites in ischaemia top-500	25
+ALL	GF_all	overlap with ischaemia top-200 (n, sign-concordance)	8 (1.00)
+ALL	GF_all	n footprint sites in ischaemia top-500	23
+ALL	MAPKaxis	overlap with ischaemia top-200 (n, sign-concordance)	5 (0.00)
+ALL	MAPKaxis	n footprint sites in ischaemia top-500	12
+ALL	TNF	overlap with ischaemia top-200 (n, sign-concordance)	6 (0.83)
+ALL	TNF	n footprint sites in ischaemia top-500	16
+ALL	DNA_damage	overlap with ischaemia top-200 (n, sign-concordance)	0 (nan)
+ALL	DNA_damage	n footprint sites in ischaemia top-500	1
+ALL	phosphatase_inh	overlap with ischaemia top-200 (n, sign-concordance)	6 (1.00)
+ALL	phosphatase_inh	n footprint sites in ischaemia top-500	8
+ALL	metformin	overlap with ischaemia top-200 (n, sign-concordance)	0 (nan)
+ALL	metformin	n footprint sites in ischaemia top-500	0
+ALL	GPCR_ligand	overlap with ischaemia top-200 (n, sign-concordance)	5 (0.60)
+ALL	GPCR_ligand	n footprint sites in ischaemia top-500	14
+BRCA	KI_MEK	r(score, ischaemia score)	-0.5554065141372568
+BRCA	KI_MEK	coherence base	0.10650609329025146
+BRCA	KI_MEK	coherence w/o ischaemia top-500 sites	0.10367777401294985
+BRCA	KI_MEK	coherence after regressing ischaemia score	0.07364260936386809
+BRCA	EGF	r(score, ischaemia score)	0.6477075237140557
+BRCA	EGF	coherence base	0.1071238018095584
+BRCA	EGF	coherence w/o ischaemia top-500 sites	0.0913547811725858
+BRCA	EGF	coherence after regressing ischaemia score	0.05796576771186334
+BRCA	GF_all	r(score, ischaemia score)	0.6406336579683606
+BRCA	GF_all	coherence base	0.11920549898389579
+BRCA	GF_all	coherence w/o ischaemia top-500 sites	0.10479027873179439
+BRCA	GF_all	coherence after regressing ischaemia score	0.07224001418892446
+BRCA	TNF	r(score, ischaemia score)	0.7641121557194435
+BRCA	TNF	coherence base	0.04677670797945259
+BRCA	TNF	coherence w/o ischaemia top-500 sites	0.03524608530841592
+BRCA	TNF	coherence after regressing ischaemia score	0.018414524948809536
+BRCA	DNA_damage	r(score, ischaemia score)	-0.07271255198136256
+BRCA	DNA_damage	coherence base	0.0334327446289179
+BRCA	DNA_damage	coherence w/o ischaemia top-500 sites	0.0334327446289179
+BRCA	DNA_damage	coherence after regressing ischaemia score	0.03370307992135728
+BRCA	phosphatase_inh	r(score, ischaemia score)	0.7126495649493859
+BRCA	phosphatase_inh	coherence base	0.049289130353811696
+BRCA	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.03859864983588814
+BRCA	phosphatase_inh	coherence after regressing ischaemia score	0.010554039242529178
+BRCA	metformin	r(score, ischaemia score)	0.27850751707435173
+BRCA	metformin	coherence base	0.19957024885686045
+BRCA	metformin	coherence w/o ischaemia top-500 sites	0.19957024885686045
+BRCA	metformin	coherence after regressing ischaemia score	0.1879341933202062
+BRCA	GPCR_ligand	r(score, ischaemia score)	0.5796789155082877
+BRCA	GPCR_ligand	coherence base	0.07940972387852674
+BRCA	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.08283170424426554
+BRCA	GPCR_ligand	coherence after regressing ischaemia score	0.050119941295506544
+BRCA	ISCHAEMIA	coherence base	0.11892866775757317
+CCRCC	KI_MEK	r(score, ischaemia score)	-0.7039044590639625
+CCRCC	KI_MEK	coherence base	0.21266083301075603
+CCRCC	KI_MEK	coherence w/o ischaemia top-500 sites	0.20345885375554293
+CCRCC	KI_MEK	coherence after regressing ischaemia score	0.12156365814138462
+CCRCC	EGF	r(score, ischaemia score)	0.7480878354909974
+CCRCC	EGF	coherence base	0.13331829715579788
+CCRCC	EGF	coherence w/o ischaemia top-500 sites	0.12615805925150053
+CCRCC	EGF	coherence after regressing ischaemia score	0.06381819851628434
+CCRCC	GF_all	r(score, ischaemia score)	0.7345647011911043
+CCRCC	GF_all	coherence base	0.13310929749717598
+CCRCC	GF_all	coherence w/o ischaemia top-500 sites	0.1200462741125702
+CCRCC	GF_all	coherence after regressing ischaemia score	0.06481449400142558
+CCRCC	TNF	r(score, ischaemia score)	0.8170730672781699
+CCRCC	TNF	coherence base	0.08808457131920178
+CCRCC	TNF	coherence w/o ischaemia top-500 sites	0.07028513737070877
+CCRCC	TNF	coherence after regressing ischaemia score	0.02761891298554165
+CCRCC	DNA_damage	r(score, ischaemia score)	-0.1250757159153959
+CCRCC	DNA_damage	coherence base	0.05796037257166162
+CCRCC	DNA_damage	coherence w/o ischaemia top-500 sites	0.05796037257166162
+CCRCC	DNA_damage	coherence after regressing ischaemia score	0.0626926096145958
+CCRCC	phosphatase_inh	r(score, ischaemia score)	0.7910121261551314
+CCRCC	phosphatase_inh	coherence base	0.061860744218455416
+CCRCC	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.05291461958749083
+CCRCC	phosphatase_inh	coherence after regressing ischaemia score	0.016241491089428427
+CCRCC	metformin	r(score, ischaemia score)	0.26720502103422306
+CCRCC	metformin	coherence base	0.3004968040352589
+CCRCC	metformin	coherence w/o ischaemia top-500 sites	0.3004968040352589
+CCRCC	metformin	coherence after regressing ischaemia score	0.2870548366170889
+CCRCC	GPCR_ligand	r(score, ischaemia score)	0.4003727962304157
+CCRCC	GPCR_ligand	coherence base	0.06649269529066408
+CCRCC	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.06051337700511694
+CCRCC	GPCR_ligand	coherence after regressing ischaemia score	0.06379719009781011
+CCRCC	ISCHAEMIA	coherence base	0.14857812236907064
+COAD	KI_MEK	r(score, ischaemia score)	-0.7442413268969138
+COAD	KI_MEK	coherence base	0.157399254845709
+COAD	KI_MEK	coherence w/o ischaemia top-500 sites	0.15473993891093143
+COAD	KI_MEK	coherence after regressing ischaemia score	0.07533458646577786
+COAD	EGF	r(score, ischaemia score)	0.7620656121024232
+COAD	EGF	coherence base	0.16759844989323858
+COAD	EGF	coherence w/o ischaemia top-500 sites	0.1510756605768839
+COAD	EGF	coherence after regressing ischaemia score	0.0790434374126765
+COAD	GF_all	r(score, ischaemia score)	0.7692871034827057
+COAD	GF_all	coherence base	0.1672545258358311
+COAD	GF_all	coherence w/o ischaemia top-500 sites	0.1565901306826314
+COAD	GF_all	coherence after regressing ischaemia score	0.07643746303043226
+COAD	TNF	r(score, ischaemia score)	0.8280315296870276
+COAD	TNF	coherence base	0.09961659086090495
+COAD	TNF	coherence w/o ischaemia top-500 sites	0.07121488190121275
+COAD	TNF	coherence after regressing ischaemia score	0.024076698820301497
+COAD	DNA_damage	r(score, ischaemia score)	-0.1747973205296052
+COAD	DNA_damage	coherence base	0.09392211494016578
+COAD	DNA_damage	coherence w/o ischaemia top-500 sites	0.09392211494016578
+COAD	DNA_damage	coherence after regressing ischaemia score	0.0981448303696157
+COAD	phosphatase_inh	r(score, ischaemia score)	0.7708111122615569
+COAD	phosphatase_inh	coherence base	0.0532250605861746
+COAD	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.0430918182208195
+COAD	phosphatase_inh	coherence after regressing ischaemia score	0.016734872740768587
+COAD	metformin	r(score, ischaemia score)	-0.04559062068907276
+COAD	metformin	coherence base	0.12488077830510022
+COAD	metformin	coherence w/o ischaemia top-500 sites	0.12488077830510022
+COAD	metformin	coherence after regressing ischaemia score	0.13266207889985715
+COAD	GPCR_ligand	r(score, ischaemia score)	0.7092823347408205
+COAD	GPCR_ligand	coherence base	0.1168441686975918
+COAD	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.11348352742045792
+COAD	GPCR_ligand	coherence after regressing ischaemia score	0.062478359128951576
+COAD	ISCHAEMIA	coherence base	0.1027819433966766
+GBM	KI_MEK	r(score, ischaemia score)	-0.648413674490027
+GBM	KI_MEK	coherence base	0.16994015835223145
+GBM	KI_MEK	coherence w/o ischaemia top-500 sites	0.16150161572761743
+GBM	KI_MEK	coherence after regressing ischaemia score	0.10800750517264646
+GBM	EGF	r(score, ischaemia score)	0.6633443314930174
+GBM	EGF	coherence base	0.16213075842575286
+GBM	EGF	coherence w/o ischaemia top-500 sites	0.15146619194790548
+GBM	EGF	coherence after regressing ischaemia score	0.0992190383609946
+GBM	GF_all	r(score, ischaemia score)	0.6692172103190094
+GBM	GF_all	coherence base	0.15425786118903617
+GBM	GF_all	coherence w/o ischaemia top-500 sites	0.14373194422709634
+GBM	GF_all	coherence after regressing ischaemia score	0.09202032806202104
+GBM	TNF	r(score, ischaemia score)	0.7277174852591379
+GBM	TNF	coherence base	0.07257146046523921
+GBM	TNF	coherence w/o ischaemia top-500 sites	0.06360891731706399
+GBM	TNF	coherence after regressing ischaemia score	0.033921506104615584
+GBM	DNA_damage	r(score, ischaemia score)	0.24627602275027022
+GBM	DNA_damage	coherence base	0.08546235848781662
+GBM	DNA_damage	coherence w/o ischaemia top-500 sites	0.08546235848781662
+GBM	DNA_damage	coherence after regressing ischaemia score	0.08230721411797198
+GBM	phosphatase_inh	r(score, ischaemia score)	0.7245544602238765
+GBM	phosphatase_inh	coherence base	0.059546304783926356
+GBM	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.04959175190291652
+GBM	phosphatase_inh	coherence after regressing ischaemia score	0.02546442536179302
+GBM	metformin	r(score, ischaemia score)	0.11398259513285766
+GBM	metformin	coherence base	0.13277666461651852
+GBM	metformin	coherence w/o ischaemia top-500 sites	0.13277666461651852
+GBM	metformin	coherence after regressing ischaemia score	0.13237568571585134
+GBM	GPCR_ligand	r(score, ischaemia score)	0.48740884208815854
+GBM	GPCR_ligand	coherence base	0.15130204793494406
+GBM	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.1433547331004663
+GBM	GPCR_ligand	coherence after regressing ischaemia score	0.12130245864665308
+GBM	ISCHAEMIA	coherence base	0.11866877493967362
+HNSCC	KI_MEK	r(score, ischaemia score)	-0.7278128804429514
+HNSCC	KI_MEK	coherence base	0.17380832679754069
+HNSCC	KI_MEK	coherence w/o ischaemia top-500 sites	0.16539665281389473
+HNSCC	KI_MEK	coherence after regressing ischaemia score	0.087372876756749
+HNSCC	EGF	r(score, ischaemia score)	0.7061473042770064
+HNSCC	EGF	coherence base	0.14512320519080282
+HNSCC	EGF	coherence w/o ischaemia top-500 sites	0.1289798827769758
+HNSCC	EGF	coherence after regressing ischaemia score	0.08156835799906369
+HNSCC	GF_all	r(score, ischaemia score)	0.6802297150173113
+HNSCC	GF_all	coherence base	0.14396442969310994
+HNSCC	GF_all	coherence w/o ischaemia top-500 sites	0.12318274105420327
+HNSCC	GF_all	coherence after regressing ischaemia score	0.08886734717831592
+HNSCC	TNF	r(score, ischaemia score)	0.7626904731145315
+HNSCC	TNF	coherence base	0.07478275558203037
+HNSCC	TNF	coherence w/o ischaemia top-500 sites	0.058310748410957916
+HNSCC	TNF	coherence after regressing ischaemia score	0.026535519769614595
+HNSCC	DNA_damage	r(score, ischaemia score)	-0.023975902473816226
+HNSCC	DNA_damage	coherence base	0.09667191668032096
+HNSCC	DNA_damage	coherence w/o ischaemia top-500 sites	0.09667191668032096
+HNSCC	DNA_damage	coherence after regressing ischaemia score	0.0984921578817707
+HNSCC	phosphatase_inh	r(score, ischaemia score)	0.6545326016423956
+HNSCC	phosphatase_inh	coherence base	0.05425307145241154
+HNSCC	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.04340774326962383
+HNSCC	phosphatase_inh	coherence after regressing ischaemia score	0.025943055635709072
+HNSCC	metformin	r(score, ischaemia score)	-0.12084659516798642
+HNSCC	metformin	coherence base	0.1811854264145268
+HNSCC	metformin	coherence w/o ischaemia top-500 sites	0.1811854264145268
+HNSCC	metformin	coherence after regressing ischaemia score	0.18190222147754673
+HNSCC	GPCR_ligand	r(score, ischaemia score)	0.5123748265458612
+HNSCC	GPCR_ligand	coherence base	0.11411187663221307
+HNSCC	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.10578415974206046
+HNSCC	GPCR_ligand	coherence after regressing ischaemia score	0.08708875226232096
+HNSCC	ISCHAEMIA	coherence base	0.10097944037302663
+LSCC	KI_MEK	r(score, ischaemia score)	-0.7215377046342858
+LSCC	KI_MEK	coherence base	0.18664892049185586
+LSCC	KI_MEK	coherence w/o ischaemia top-500 sites	0.180966810638918
+LSCC	KI_MEK	coherence after regressing ischaemia score	0.10204916498571566
+LSCC	EGF	r(score, ischaemia score)	0.6793227435517776
+LSCC	EGF	coherence base	0.1946611711580828
+LSCC	EGF	coherence w/o ischaemia top-500 sites	0.17901955784758405
+LSCC	EGF	coherence after regressing ischaemia score	0.11681929049892414
+LSCC	GF_all	r(score, ischaemia score)	0.6578246928655165
+LSCC	GF_all	coherence base	0.19304291598834775
+LSCC	GF_all	coherence w/o ischaemia top-500 sites	0.17764772930286155
+LSCC	GF_all	coherence after regressing ischaemia score	0.12154670881765799
+LSCC	TNF	r(score, ischaemia score)	0.7453248660737183
+LSCC	TNF	coherence base	0.0851872142397333
+LSCC	TNF	coherence w/o ischaemia top-500 sites	0.08012885474271353
+LSCC	TNF	coherence after regressing ischaemia score	0.04125328492779563
+LSCC	DNA_damage	r(score, ischaemia score)	-0.11777003333971311
+LSCC	DNA_damage	coherence base	0.10039297805912305
+LSCC	DNA_damage	coherence w/o ischaemia top-500 sites	0.10039297805912305
+LSCC	DNA_damage	coherence after regressing ischaemia score	0.09984454053084522
+LSCC	phosphatase_inh	r(score, ischaemia score)	0.7012784532405248
+LSCC	phosphatase_inh	coherence base	0.06853085343467867
+LSCC	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.060099665389724465
+LSCC	phosphatase_inh	coherence after regressing ischaemia score	0.03333814211100741
+LSCC	metformin	r(score, ischaemia score)	-0.0010453634357901883
+LSCC	metformin	coherence base	0.141691206946368
+LSCC	metformin	coherence w/o ischaemia top-500 sites	0.141691206946368
+LSCC	metformin	coherence after regressing ischaemia score	0.14326599567542952
+LSCC	GPCR_ligand	r(score, ischaemia score)	0.45564235574126055
+LSCC	GPCR_ligand	coherence base	0.1884431016605549
+LSCC	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.17764551122921718
+LSCC	GPCR_ligand	coherence after regressing ischaemia score	0.16020644554663646
+LSCC	ISCHAEMIA	coherence base	0.11718821758173953
+LUAD	KI_MEK	r(score, ischaemia score)	-0.5863170348143446
+LUAD	KI_MEK	coherence base	0.1206330530084738
+LUAD	KI_MEK	coherence w/o ischaemia top-500 sites	0.1152012722016035
+LUAD	KI_MEK	coherence after regressing ischaemia score	0.08605456735955565
+LUAD	EGF	r(score, ischaemia score)	0.46781766426664523
+LUAD	EGF	coherence base	0.13672620334488714
+LUAD	EGF	coherence w/o ischaemia top-500 sites	0.12307788231001855
+LUAD	EGF	coherence after regressing ischaemia score	0.11163417862027765
+LUAD	GF_all	r(score, ischaemia score)	0.4355573567642404
+LUAD	GF_all	coherence base	0.15444449227779974
+LUAD	GF_all	coherence w/o ischaemia top-500 sites	0.14175221120136705
+LUAD	GF_all	coherence after regressing ischaemia score	0.13071636658285393
+LUAD	TNF	r(score, ischaemia score)	0.5350337327203631
+LUAD	TNF	coherence base	0.059425191004882985
+LUAD	TNF	coherence w/o ischaemia top-500 sites	0.05782996012922663
+LUAD	TNF	coherence after regressing ischaemia score	0.042443989605678856
+LUAD	DNA_damage	r(score, ischaemia score)	-0.011653670548889782
+LUAD	DNA_damage	coherence base	0.0567380398400343
+LUAD	DNA_damage	coherence w/o ischaemia top-500 sites	0.0567380398400343
+LUAD	DNA_damage	coherence after regressing ischaemia score	0.057033208894102176
+LUAD	phosphatase_inh	r(score, ischaemia score)	0.6004590903025693
+LUAD	phosphatase_inh	coherence base	0.048820834733437395
+LUAD	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.0380567992986431
+LUAD	phosphatase_inh	coherence after regressing ischaemia score	0.028443279967416454
+LUAD	metformin	r(score, ischaemia score)	-0.17823146528210881
+LUAD	metformin	coherence base	0.1290297545907471
+LUAD	metformin	coherence w/o ischaemia top-500 sites	0.1290297545907471
+LUAD	metformin	coherence after regressing ischaemia score	0.13024039530073994
+LUAD	GPCR_ligand	r(score, ischaemia score)	0.18516340239962514
+LUAD	GPCR_ligand	coherence base	0.17013869414827038
+LUAD	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.15729880463296073
+LUAD	GPCR_ligand	coherence after regressing ischaemia score	0.16879559419869072
+LUAD	ISCHAEMIA	coherence base	0.08305330641134802
+OV	KI_MEK	r(score, ischaemia score)	-0.6870353300111788
+OV	KI_MEK	coherence base	0.04532121455587803
+OV	KI_MEK	coherence w/o ischaemia top-500 sites	0.03740741413167667
+OV	KI_MEK	coherence after regressing ischaemia score	0.019173123755251258
+OV	EGF	r(score, ischaemia score)	0.6714906645027361
+OV	EGF	coherence base	0.06842743627866964
+OV	EGF	coherence w/o ischaemia top-500 sites	0.05313134991943842
+OV	EGF	coherence after regressing ischaemia score	0.03464737787574204
+OV	GF_all	r(score, ischaemia score)	0.6222698687170044
+OV	GF_all	coherence base	0.05975028138569979
+OV	GF_all	coherence w/o ischaemia top-500 sites	0.04834973532288518
+OV	GF_all	coherence after regressing ischaemia score	0.03181749964837794
+OV	TNF	r(score, ischaemia score)	0.7445007177768307
+OV	TNF	coherence base	0.0280001930348789
+OV	TNF	coherence w/o ischaemia top-500 sites	0.01759978199513057
+OV	TNF	coherence after regressing ischaemia score	0.005947321548140794
+OV	DNA_damage	r(score, ischaemia score)	-0.10071192701887495
+OV	DNA_damage	coherence base	0.02467609259335272
+OV	DNA_damage	coherence w/o ischaemia top-500 sites	0.02467609259335272
+OV	DNA_damage	coherence after regressing ischaemia score	0.02542376704993704
+OV	phosphatase_inh	r(score, ischaemia score)	0.6261634971068953
+OV	phosphatase_inh	coherence base	0.039144059781599905
+OV	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.031763580672441394
+OV	phosphatase_inh	coherence after regressing ischaemia score	0.019349735584761385
+OV	metformin	r(score, ischaemia score)	0.3792167418903625
+OV	metformin	coherence base	0.21680484954318718
+OV	metformin	coherence w/o ischaemia top-500 sites	0.21680484954318718
+OV	metformin	coherence after regressing ischaemia score	0.19413146146875296
+OV	GPCR_ligand	r(score, ischaemia score)	0.49623555343750464
+OV	GPCR_ligand	coherence base	0.05265521460866277
+OV	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.05009246381846401
+OV	GPCR_ligand	coherence after regressing ischaemia score	0.0369160381974729
+OV	ISCHAEMIA	coherence base	0.09430989455620085
+PDAC	KI_MEK	r(score, ischaemia score)	-0.7021814398279866
+PDAC	KI_MEK	coherence base	0.14285038909096937
+PDAC	KI_MEK	coherence w/o ischaemia top-500 sites	0.13662598380989843
+PDAC	KI_MEK	coherence after regressing ischaemia score	0.08150114757360283
+PDAC	EGF	r(score, ischaemia score)	0.7052185162790235
+PDAC	EGF	coherence base	0.12319653744795728
+PDAC	EGF	coherence w/o ischaemia top-500 sites	0.11478957660271757
+PDAC	EGF	coherence after regressing ischaemia score	0.0685005848110685
+PDAC	GF_all	r(score, ischaemia score)	0.6739379694709128
+PDAC	GF_all	coherence base	0.14293672937016114
+PDAC	GF_all	coherence w/o ischaemia top-500 sites	0.13593142786822499
+PDAC	GF_all	coherence after regressing ischaemia score	0.08616264806783379
+PDAC	TNF	r(score, ischaemia score)	0.8022063488787071
+PDAC	TNF	coherence base	0.042378630576273106
+PDAC	TNF	coherence w/o ischaemia top-500 sites	0.0377113126685617
+PDAC	TNF	coherence after regressing ischaemia score	0.010351988635159248
+PDAC	DNA_damage	r(score, ischaemia score)	-0.171197872175124
+PDAC	DNA_damage	coherence base	0.052950003448944474
+PDAC	DNA_damage	coherence w/o ischaemia top-500 sites	0.052950003448944474
+PDAC	DNA_damage	coherence after regressing ischaemia score	0.05222900060761129
+PDAC	phosphatase_inh	r(score, ischaemia score)	0.7310523795770042
+PDAC	phosphatase_inh	coherence base	0.06001230826786382
+PDAC	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.04831668135299289
+PDAC	phosphatase_inh	coherence after regressing ischaemia score	0.027113971505053437
+PDAC	metformin	r(score, ischaemia score)	0.0683427025102583
+PDAC	metformin	coherence base	0.15607414391802826
+PDAC	metformin	coherence w/o ischaemia top-500 sites	0.15607414391802826
+PDAC	metformin	coherence after regressing ischaemia score	0.15787220883773023
+PDAC	GPCR_ligand	r(score, ischaemia score)	0.5576029221606263
+PDAC	GPCR_ligand	coherence base	0.08974271068591308
+PDAC	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.0884309599601542
+PDAC	GPCR_ligand	coherence after regressing ischaemia score	0.06540033652863811
+PDAC	ISCHAEMIA	coherence base	0.08947248452105346
+UCEC	KI_MEK	r(score, ischaemia score)	-0.7465946196645157
+UCEC	KI_MEK	coherence base	0.1487380045349361
+UCEC	KI_MEK	coherence w/o ischaemia top-500 sites	0.14162399841987602
+UCEC	KI_MEK	coherence after regressing ischaemia score	0.07160055844278027
+UCEC	EGF	r(score, ischaemia score)	0.8014581425465465
+UCEC	EGF	coherence base	0.1545076326208795
+UCEC	EGF	coherence w/o ischaemia top-500 sites	0.1423817718769543
+UCEC	EGF	coherence after regressing ischaemia score	0.06598491012715878
+UCEC	GF_all	r(score, ischaemia score)	0.7835383631249194
+UCEC	GF_all	coherence base	0.1622966883462653
+UCEC	GF_all	coherence w/o ischaemia top-500 sites	0.1502414302454778
+UCEC	GF_all	coherence after regressing ischaemia score	0.07318860985064926
+UCEC	TNF	r(score, ischaemia score)	0.7932215028254929
+UCEC	TNF	coherence base	0.05740804146663938
+UCEC	TNF	coherence w/o ischaemia top-500 sites	0.0535594399208018
+UCEC	TNF	coherence after regressing ischaemia score	0.018555445999123444
+UCEC	DNA_damage	r(score, ischaemia score)	-0.2469992893095392
+UCEC	DNA_damage	coherence base	0.07071276707573047
+UCEC	DNA_damage	coherence w/o ischaemia top-500 sites	0.07071276707573047
+UCEC	DNA_damage	coherence after regressing ischaemia score	0.06635075783470831
+UCEC	phosphatase_inh	r(score, ischaemia score)	0.7958414913445447
+UCEC	phosphatase_inh	coherence base	0.06757905520152155
+UCEC	phosphatase_inh	coherence w/o ischaemia top-500 sites	0.05871844387612334
+UCEC	phosphatase_inh	coherence after regressing ischaemia score	0.023092285643152088
+UCEC	metformin	r(score, ischaemia score)	-0.015320113485548877
+UCEC	metformin	coherence base	0.07813506384750016
+UCEC	metformin	coherence w/o ischaemia top-500 sites	0.07813506384750016
+UCEC	metformin	coherence after regressing ischaemia score	0.08062868830485236
+UCEC	GPCR_ligand	r(score, ischaemia score)	0.608580206236364
+UCEC	GPCR_ligand	coherence base	0.1355057725770089
+UCEC	GPCR_ligand	coherence w/o ischaemia top-500 sites	0.1305730871855176
+UCEC	GPCR_ligand	coherence after regressing ischaemia score	0.09661850475981784
+UCEC	ISCHAEMIA	coherence base	0.10418441099568827

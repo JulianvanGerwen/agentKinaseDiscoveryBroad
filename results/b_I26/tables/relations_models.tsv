@@ -1,0 +1,16 @@
+model	term	OR	lo	hi	p	n
+supported ~ C(group) + in_vivo + in_vitro	in_vivo[T.True]	1.036	0.5954	1.803	0.9	518
+supported ~ C(group) + in_vivo + in_vitro	in_vitro[T.True]	1.695	0.8166	3.518	0.1567	518
+supported ~ C(group) + logLT + logMS	logLT	1.206	1.009	1.442	0.04008	518
+supported ~ C(group) + logLT + logMS	logMS	0.7979	0.5515	1.155	0.231	518
+supported ~ C(group) + motif	motif	1.003	0.9906	1.015	0.6555	518
+supported ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	in_vivo[T.True]	0.8691	0.4847	1.559	0.6378	518
+supported ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	in_vitro[T.True]	1.514	0.7226	3.174	0.2717	518
+supported ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	logLT	1.227	1.017	1.481	0.03227	518
+supported ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	logMS	0.7915	0.5448	1.15	0.22	518
+supported ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	motif	1.005	0.9924	1.018	0.4365	518
+mean_z ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	in_vivo[T.True]	0.3055	0.003003	0.608	0.04778	518
+mean_z ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	in_vitro[T.True]	-0.2315	-0.6287	0.1656	0.2526	518
+mean_z ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	logLT	-0.1929	-0.3041	-0.08169	0.0007072	518
+mean_z ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	logMS	0.2031	-0.000256	0.4064	0.05029	518
+mean_z ~ C(group) + in_vivo + in_vitro + logLT + logMS + motif	motif	-0.008618	-0.01564	-0.0016	0.01619	518

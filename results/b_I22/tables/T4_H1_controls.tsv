@@ -1,0 +1,15 @@
+test	dir	same	diff	delta	n_studypairs	frac_pos	type	mean_r	n
+site-level cross-study SAME class	primary	1.085017612163765	0.7843717521957255	0.3006458599680393	7.0	0.7142857142857143			
+site-level cross-study SAME class	reverse	0.802187395348828	0.7707041228372326	0.03148327251159523	7.0	0.5714285714285714			
+Hijazi common-site motif profile (raw)	primary						same drug, diff cell	0.13855551183223724	174.0
+Hijazi common-site motif profile (raw)	primary						diff class, same cell	0.08681628853082657	4806.0
+Hijazi common-site motif profile (raw)	primary						diff class, diff cell	-0.06224265694618225	9612.0
+Hijazi common-site motif profile (raw)	reverse						same drug, diff cell	0.05489061772823334	174.0
+Hijazi common-site motif profile (raw)	reverse						diff class, same cell	0.1396336853504181	4806.0
+Hijazi common-site motif profile (raw)	reverse						diff class, diff cell	-0.08278932422399521	9612.0
+Hijazi common-site motif profile (cen)	primary						same drug, diff cell	0.15207035839557648	174.0
+Hijazi common-site motif profile (cen)	primary						diff class, same cell	0.045943040400743484	4806.0
+Hijazi common-site motif profile (cen)	primary						diff class, diff cell	-0.04114764928817749	9612.0
+Hijazi common-site motif profile (cen)	reverse						same drug, diff cell	0.08229169249534607	174.0
+Hijazi common-site motif profile (cen)	reverse						diff class, same cell	0.11585669219493866	4806.0
+Hijazi common-site motif profile (cen)	reverse						diff class, diff cell	-0.0745336264371872	9612.0

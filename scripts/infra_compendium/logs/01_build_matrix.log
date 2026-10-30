@@ -1,0 +1,39 @@
+sites 189962; gene mapped 0.994; psp-KS 4865; regulatory 4771  [2s]
+read 17032346 values [22s]
+finite cells 17032346 (rows read 17032346; duplicates/non-finite = 0)
+wrote site_matrix.parquet [32s]
+                 count         mean          std          min          25%          50%           75%           max
+n_sites         1937.0  8793.157460  4387.740114  1981.000000  5595.000000  8560.000000  10636.000000  29577.000000
+n_psp_ks_sites  1937.0   791.616933   294.794099   153.000000   582.000000   805.000000    965.000000   1720.000000
+n_proteins      1937.0  2983.400103   955.198712   605.000000  2339.000000  2984.000000   3449.000000   8973.000000
+median          1937.0    -0.001167     0.289916   -10.436000    -0.035194    -0.000852      0.030419      2.470000
+mean            1937.0     0.001058     0.341229   -10.391540    -0.028545    -0.001533      0.027106      3.259362
+sd              1937.0     0.762469     0.943693     0.127295     0.363763     0.625782      0.916906     16.424509
+mad             1937.0     0.481234     0.604483     0.035545     0.233468     0.389064      0.574045     16.017267
+max_abs         1937.0     6.616927     7.661708     1.197265     3.646633     5.713592      8.085574    197.839996
+frac_abs_gt1    1937.0     0.122966     0.131215     0.000752     0.020153     0.082161      0.175395      0.940682
+frac_zero       1937.0     0.000637     0.007984     0.000000     0.000000     0.000000      0.000000      0.197387
+done [37s]
+	Command being timed: "/home/plm_env/bin/python 01_build_matrix.py"
+	User time (seconds): 19.72
+	System time (seconds): 2.98
+	Percent of CPU this job got: 60%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:37.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3960596
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 21
+	Minor (reclaiming a frame) page faults: 706072
+	Voluntary context switches: 31766
+	Involuntary context switches: 1895
+	Swaps: 0
+	File system inputs: 2161368
+	File system outputs: 632576
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

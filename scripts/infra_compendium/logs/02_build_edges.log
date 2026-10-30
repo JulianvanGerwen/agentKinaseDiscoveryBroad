@@ -1,0 +1,4 @@
+wrote /workspace/cache/compendium/edges_mvp_rebuild.tsv.gz: 30080 curated edges (17376 from PSP; 438 kinases; 2218 PSP rows without a human site), 46719 predicted edges; sha256 4519e62bdb4d
+primary: 27598 curated edges (439 kinases), 46866 r2np edges; sha256 d079a72bd106e556
+alt curated 30080; primary curated 27598; shared 25128 (0.911 of primary, 0.835 of alt)
+repo prebuilt mvp/model/edges.tsv.gz curated 30080; identical to alt rebuild: True

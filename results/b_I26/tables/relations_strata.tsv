@@ -1,0 +1,18 @@
+variable	level	n	support_rate	unsupported_rate	median_mean_z
+evidence	vitro_only	224	0.156	0.496	-0.395
+evidence	vivo+vitro	215	0.181	0.470	-0.354
+evidence	vivo_only	105	0.181	0.552	-0.291
+LT_bin	0 (HTP only)	92	0.174	0.446	-0.415
+LT_bin	1-2	241	0.158	0.527	-0.285
+LT_bin	3-9	106	0.132	0.575	-0.161
+LT_bin	>=10	105	0.238	0.390	-0.569
+motif_bin	<50	40	0.250	0.575	-0.115
+motif_bin	50-80	52	0.212	0.442	-0.599
+motif_bin	80-90	121	0.149	0.545	-0.198
+motif_bin	>=90	331	0.163	0.477	-0.368
+mgroup	AGC	75	0.160	0.453	-0.441
+mgroup	Atypical	75	0.267	0.453	-0.371
+mgroup	CMGC	361	0.130	0.526	-0.233
+mgroup	STE	6	0.500	0.167	-4.355
+mgroup	TK	23	0.478	0.478	-0.457
+mgroup	TKL	4	0.000	0.000	-0.665

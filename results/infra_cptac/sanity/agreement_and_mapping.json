@@ -1,0 +1,14 @@
+{
+ "corev3_vs_meanz_tc": {
+  "n_kinases": 130,
+  "median_spearman": 0.5327704706485927,
+  "frac_gt_0.5": 0.5846153846153846
+ },
+ "mapping_vs_PSP": {
+  "mapped_keys": 125753,
+  "frac_in_PSP_human": 0.6140370408658242,
+  "frac_in_PSP_for_repositioned_sites": 0.47019867549668876,
+  "n_repositioned": 3473,
+  "neg_control_pos+2_frac_in_PSP": 0.06626482071998283
+ }
+}

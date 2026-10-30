@@ -1,0 +1,105 @@
+test	kinase	variant	method	n_pos	n_neg	stat	p	passed
+BRCA ERBB2 amp (GISTIC=2)	ERBB2	tc	corev3	16	97.0	0.504	0.48193588852882385	False
+BRCA ERBB2 amp (GISTIC=2)	ERBB2	tc	meanz	0	0.0			
+BRCA ERBB2 amp (GISTIC=2)	ERBB2	tc_padj	corev3	16	97.0	0.448	0.7463223338127136	False
+BRCA ERBB2 amp (GISTIC=2)	ERBB2	tc_padj	meanz	0	0.0			
+BRCA ERBB2 proteogenomic status Positive (cBioPortal)	ERBB2	tc	corev3	15	105.0	0.46	0.6942216157913208	False
+BRCA ERBB2 proteogenomic status Positive (cBioPortal)	ERBB2	tc	meanz	0	0.0			
+BRCA ERBB2 proteogenomic status Positive (cBioPortal)	ERBB2	tc_padj	corev3	15	105.0	0.426	0.8234046101570129	False
+BRCA ERBB2 proteogenomic status Positive (cBioPortal)	ERBB2	tc_padj	meanz	0	0.0			
+BRCA PAM50 Her2 vs others (cBioPortal)	ERBB2	tc	corev3	14	106.0	0.677	0.016269365325570107	True
+BRCA PAM50 Her2 vs others (cBioPortal)	ERBB2	tc	meanz	0	0.0			
+BRCA PAM50 Her2 vs others (cBioPortal)	ERBB2	tc_padj	corev3	14	106.0	0.65	0.03446264564990997	True
+BRCA PAM50 Her2 vs others (cBioPortal)	ERBB2	tc_padj	meanz	0	0.0			
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	ERBB3	tc	corev3	16	97.0	0.786	0.00012986792717128992	True
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	ERBB3	tc	meanz	0	0.0			
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	ERBB3	tc_padj	corev3	16	97.0	0.581	0.15067075192928314	False
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	ERBB3	tc_padj	meanz	0	0.0			
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	EGFR	tc	corev3	16	97.0	0.619	0.06536588817834854	False
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	EGFR	tc	meanz	14	90.0	0.604	0.1069602519273758	False
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	EGFR	tc_padj	corev3	16	97.0	0.529	0.3570028245449066	False
+BRCA ERBB2 amp (GISTIC=2) - ERBB-family paralog	EGFR	tc_padj	meanz	14	90.0	0.586	0.15296262502670288	False
+GBM EGFR amp or mut	EGFR	tc	corev3	48	51.0	0.826	1.2262167281562597e-08	True
+GBM EGFR amp or mut	EGFR	tc	meanz	48	51.0	0.838	3.443466622954361e-09	True
+GBM EGFR amp or mut	EGFR	tc_padj	corev3	48	51.0	0.549	0.20138978958129883	False
+GBM EGFR amp or mut	EGFR	tc_padj	meanz	48	51.0	0.601	0.041561465710401535	True
+LUAD EGFR mut or amp	EGFR	tc	corev3	42	67.0	0.694	0.00034916040021926165	True
+LUAD EGFR mut or amp	EGFR	tc	meanz	42	67.0	0.565	0.12922143936157227	False
+LUAD EGFR mut or amp	EGFR	tc_padj	corev3	42	67.0	0.624	0.014773784205317497	True
+LUAD EGFR mut or amp	EGFR	tc_padj	meanz	42	67.0	0.477	0.6582987904548645	False
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK1	tc	corev3	124	390.0	0.583	0.0027265860699117184	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK1	tc	meanz	124	390.0	0.563	0.017526714131236076	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK1	tc_padj	corev3	124	390.0	0.583	0.00268033379688859	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK1	tc_padj	meanz	124	390.0	0.568	0.011204684153199196	True
+KRAS hotspot LUAD	MAPK1	tc	corev3	35	73.0	0.623	0.019959058612585068	True
+KRAS hotspot LUAD	MAPK1	tc	meanz	35	73.0	0.622	0.020602229982614517	True
+KRAS hotspot LUAD	MAPK1	tc_padj	corev3	35	73.0	0.611	0.03160800784826279	True
+KRAS hotspot LUAD	MAPK1	tc_padj	meanz	35	73.0	0.598	0.049715880304574966	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK3	tc	corev3	124	390.0	0.595	0.000674918876029551	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK3	tc	meanz	124	390.0	0.559	0.024007074534893036	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK3	tc_padj	corev3	124	390.0	0.595	0.0006963876658119261	True
+KRAS/NRAS/BRAF hotspot (LUAD,COAD,UCEC,LSCC,HNSCC; pooled within-cohort)	MAPK3	tc_padj	meanz	124	390.0	0.575	0.006150365807116032	True
+KRAS hotspot LUAD	MAPK3	tc	corev3	35	73.0	0.648	0.006545787677168846	True
+KRAS hotspot LUAD	MAPK3	tc	meanz	35	73.0	0.6	0.04772666096687317	True
+KRAS hotspot LUAD	MAPK3	tc_padj	corev3	35	73.0	0.639	0.010070055723190308	True
+KRAS hotspot LUAD	MAPK3	tc_padj	meanz	35	73.0	0.6	0.047077927738428116	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK1	tc	corev3	1027		0.633	3.4810759111132474e-116	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK1	tc	meanz	1027		0.686	1.1107735959705926e-143	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK1	tc_padj	corev3	1027		0.477	1.6829579750358994e-59	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK1	tc_padj	meanz	1027		0.525	6.842995058433556e-74	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK1	tc	corev3	1027		0.638	1.5117485988562153e-118	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK1	tc	meanz	1027		0.683	6.305231337421103e-142	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK1	tc_padj	corev3	1027		0.485	8.287383954406486e-62	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK1	tc_padj	meanz	1027		0.525	8.155712302050961e-74	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK2	tc	corev3	1027		0.729	7.168224176784741e-171	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK2	tc	meanz	1027		0.759	1.5520812283721613e-193	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK2	tc_padj	corev3	1027		0.541	3.440483891718952e-79	True
+corr with HALLMARK_E2F_TARGETS (all cohorts, cohort-centred)	CDK2	tc_padj	meanz	1027		0.642	2.7189501138844425e-120	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK2	tc	corev3	1027		0.713	3.2434738179205665e-160	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK2	tc	meanz	1027		0.745	1.5495551308036654e-182	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK2	tc_padj	corev3	1027		0.542	1.5334408372421774e-79	True
+corr with HALLMARK_G2M_CHECKPOINT (all cohorts)	CDK2	tc_padj	meanz	1027		0.637	6.381652972391928e-118	True
+RB1 mut or deep del (GBM,LSCC,BRCA,UCEC pooled)	CDK2	tc	corev3	33	473.0	0.625	0.008336481638252735	True
+RB1 mut or deep del (GBM,LSCC,BRCA,UCEC pooled)	CDK2	tc	meanz	33	473.0	0.606	0.02096206694841385	True
+RB1 mut or deep del (GBM,LSCC,BRCA,UCEC pooled)	CDK2	tc_padj	corev3	33	473.0	0.577	0.0707414299249649	False
+RB1 mut or deep del (GBM,LSCC,BRCA,UCEC pooled)	CDK2	tc_padj	meanz	33	473.0	0.594	0.035040322691202164	True
+PIK3CA hotspot/PTEN mut (BRCA,UCEC)	AKT1	tc	corev3	108	109.0	0.619	0.0012290606973692775	True
+PIK3CA hotspot/PTEN mut (BRCA,UCEC)	AKT1	tc	meanz	108	109.0	0.646	0.00010557755012996495	True
+PIK3CA hotspot/PTEN mut (BRCA,UCEC)	AKT1	tc_padj	corev3	108	109.0	0.61	0.002527096774429083	True
+PIK3CA hotspot/PTEN mut (BRCA,UCEC)	AKT1	tc_padj	meanz	108	109.0	0.646	9.859797137323767e-05	True
+corr with BCM PTM-SEA ERK2/MAPK1 score (same data; agreement)	MAPK1	tc	corev3	1030		0.526	2.166165995093339e-74	True
+corr with BCM PTM-SEA ERK2/MAPK1 score (same data; agreement)	MAPK1	tc	meanz	1030		0.628	6.500172436247285e-114	True
+corr with BCM PTM-SEA ERK2/MAPK1 score (same data; agreement)	MAPK1	tc_padj	corev3	1030		0.514	1.1274967810689564e-70	True
+corr with BCM PTM-SEA ERK2/MAPK1 score (same data; agreement)	MAPK1	tc_padj	meanz	1030		0.611	1.7333931968054527e-106	True
+corr with BCM PTM-SEA CDK1 score (agreement)	CDK1	tc	corev3	1030		0.748	2.8818232704019276e-185	True
+corr with BCM PTM-SEA CDK1 score (agreement)	CDK1	tc	meanz	1030		0.849	1.2254558956224354e-286	True
+corr with BCM PTM-SEA CDK1 score (agreement)	CDK1	tc_padj	corev3	1030		0.644	1.3390008671138433e-121	True
+corr with BCM PTM-SEA CDK1 score (agreement)	CDK1	tc_padj	meanz	1030		0.793	1.1045766390657731e-223	True
+corr with BCM PTM-SEA Akt1 score (agreement)	AKT1	tc	corev3	1030		0.493	3.239482418679066e-64	True
+corr with BCM PTM-SEA Akt1 score (agreement)	AKT1	tc	meanz	1030		0.746	6.158239309013107e-184	True
+corr with BCM PTM-SEA Akt1 score (agreement)	AKT1	tc_padj	corev3	1030		0.39	1.1196508571426817e-38	True
+corr with BCM PTM-SEA Akt1 score (agreement)	AKT1	tc_padj	meanz	1030		0.705	1.1318226379025972e-155	True
+corr with PROGENy_MAPK (RNA)	MAPK1	tc	corev3	1027		0.219	1.4137341774817049e-12	True
+corr with PROGENy_MAPK (RNA)	MAPK1	tc	meanz	1027		0.188	1.1542614763198353e-09	True
+corr with PROGENy_MAPK (RNA)	MAPK1	tc_padj	corev3	1027		0.195	3.0602751374047113e-10	True
+corr with PROGENy_MAPK (RNA)	MAPK1	tc_padj	meanz	1027		0.153	7.925821514653197e-07	True
+corr with PROGENy_EGFR (RNA)	EGFR	tc	corev3	1027		-0.018	0.5696245334963126	False
+corr with PROGENy_EGFR (RNA)	EGFR	tc	meanz	1013		0.044	0.16225896080227162	False
+corr with PROGENy_EGFR (RNA)	EGFR	tc_padj	corev3	1027		0.025	0.4262881466156944	False
+corr with PROGENy_EGFR (RNA)	EGFR	tc_padj	meanz	1013		0.048	0.1240875220983498	False
+tumour > paired normal (all paired cases)	CDK1	paired	corev3	492		0.856	0.0	True
+tumour > paired normal (all paired cases)	CDK2	paired	corev3	492		0.953	0.0	True
+tumour > paired normal (all paired cases)	AURKA	paired	corev3	492		0.734	8.393319296448127e-38	True
+tumour > paired normal (all paired cases)	PLK1	paired	corev3	492		0.667	1.6143485136433953e-17	True
+tumour > paired normal (all paired cases)	CDK1	paired	meanz	492		0.898	0.0	True
+tumour > paired normal (all paired cases)	CDK2	paired	meanz	492		0.913	0.0	True
+tumour > paired normal (all paired cases)	AURKA	paired	meanz	492		0.51	0.26442378759384155	False
+tumour > paired normal (all paired cases)	PLK1	paired	meanz	492		0.76	1.5634286966471984e-41	True
+tumour > paired normal (all paired cases)	CDK1	paired_padj	corev3	492		0.764	3.0968696061578457e-43	True
+tumour > paired normal (all paired cases)	CDK2	paired_padj	corev3	492		0.848	0.0	True
+tumour > paired normal (all paired cases)	AURKA	paired_padj	corev3	492		0.561	3.498763180687092e-05	True
+tumour > paired normal (all paired cases)	PLK1	paired_padj	corev3	492		0.455	0.8884506821632385	False
+tumour > paired normal (all paired cases)	CDK1	paired_padj	meanz	492		0.801	0.0	True
+tumour > paired normal (all paired cases)	CDK2	paired_padj	meanz	492		0.831	0.0	True
+tumour > paired normal (all paired cases)	AURKA	paired_padj	meanz	489		0.331	1.0	False
+tumour > paired normal (all paired cases)	PLK1	paired_padj	meanz	492		0.514	0.19033430516719818	False
