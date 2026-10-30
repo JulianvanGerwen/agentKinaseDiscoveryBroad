@@ -1,14 +1,16 @@
 # Agentic AI for bioinformatics: searching for new kinase-signalling biology in phosphoproteomics data
 
-> **This repository is an exercise in testing agentic AI for bioinformatics.** A team of AI agents ran the project end to end from a short human-written brief: a lead "PI" agent (Claude Opus 5.5) directing Claude Opus 5.5 and Sonnet 5.5 sub-agents. The agents wrote all analyses, code, figures and text. **No result has been verified by a human.** Treat every biological claim as a hypothesis, and see the limitations below.
+**(Human-written text starts)**
 
-<!-- Placeholder for a human-written introduction (context of the exercise, verification status). The agents did not write anything here. -->
+This is an exercise in assessing the bioinformatics capabilities of agentic AI. It is part of a hackathon run by the Beltrao lab at ETH Zurich, where we used Claude to run bioinformatics projects (github.com/evocellnet/ai-hackathon). All results in this project were generated entirely by AI with minimal human intervention. This is not intended to be viewed as a traditional publication and bioinformatics result.
 
-## Start here: the research briefing
+The goal of this specific project was to find novel and impactful discoveries using kinase-substrate predictions, phosphoproteomics data, and other modalities. The agent was given no specific directions to pursue. The project was executed by Claude Opus 5.5 with delegation to Opus 5.5/Sonnet 5.5 subagents, and finished within 24 hours on a computational cluster with 128 Gb RAM and 4 RTX4090 GPUs.
 
-### **[Read the briefing (PDF)](docs/briefing/BRIEFING.pdf)** · [Markdown version](docs/briefing/BRIEFING.md)
+Currently none of the results have been verified by a human. We plan to verify the agent’s methodology and results, and we will update this section accordingly.
 
-The briefing is the main way to engage with this project. It is a paper-length account for a broad scientific audience. It covers the project both as **an exercise in agentic science** (how the AI team was organised, how claims were checked, what went wrong) and as **a bioinformatics study** (what was found, how confident we are, and what was tried and dropped). It explains its terminology, credits the literature ideas it builds on, and includes eight figures.
+The rest of this repository is entirely AI generated. It is the working directory used by the agent. It includes an AI-written briefing describing the results and the path that led to them ([the research briefing](docs/briefing/BRIEFING.pdf)).
+
+**(Human-written text ends)**
 
 ## The project in one paragraph
 
